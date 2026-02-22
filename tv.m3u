@@ -77,6 +77,11 @@ https://dl.dropboxusercontent.com/scl/fi/2tful09bnlutur997dy14/info.mp4?rlkey=of
 https://dl.dropboxusercontent.com/scl/fi/fwh3ea7esxf14gkmmrcwu/lv_0_20250723183017.mp4?rlkey=0bkqehfly8mqsi2zxzckfojl3&st=rssjfw21
 
 
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://www.kaltarabisnis.co/wp-content/uploads/2026/02/Persib-vs-Ratchaburi-FC-1024x576.webp" group-title="⭐ LIVE EVENT", 19:15 Persib vs Ratchaburi SOCCER CHANNEL V+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/LKsS6S3/PROLIGA.png" group-title="⭐ LIVE EVENT", PROLIGA
 http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/298550
@@ -204,7 +209,8 @@ https://s.id/Shareext_liga1_m3u8
 http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/162138
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/indosiar.m3u8
 
-
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMvTen68A2v56KJEkT2ie5cjZ5nT7xLUq_oQ&s" group-title="NASIONAL SPORTS", TVRI SPORTS
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 
 
@@ -218,7 +224,8 @@ https://dl.dropboxusercontent.com/scl/fi/kfhn1rdcgeb4cdu9ccvxr/lv_0_202506162008
 https://dl.dropboxusercontent.com/scl/fi/fwh3ea7esxf14gkmmrcwu/lv_0_20250723183017.mp4?rlkey=0bkqehfly8mqsi2zxzckfojl3&st=rssjfw21
 
 
-#EXTINF:-1 tvg-id="Trans7.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://thumbor.prod.vidiocdn.com/sTHuz46XhalNvNWDUl-Jvv8k64A=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg" group-title="🇮🇩 INDONESIA", TRANS 7 DETIK
+
+#EXTINF:-1 tvg-id="Trans7.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://thumbor.prod.vidiocdn.com/sTHuz46XhalNvNWDUl-Jvv8k64A=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg" group-title="🇮🇩 INDONESIA", TRANS 7
 http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/162502
 
 #EXTINF:-1 tvg-id="Trans7.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://thumbor.prod.vidiocdn.com/sTHuz46XhalNvNWDUl-Jvv8k64A=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg" group-title="🇮🇩 INDONESIA", TRANS 7 V+
@@ -228,8 +235,8 @@ http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/162502
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
-#EXTINF:-1 tvg-id="TRANS TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-ttv.png" group-title="🇮🇩 INDONESIA", TRANS TV DETIK
-https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="TRANS TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-ttv.png" group-title="🇮🇩 INDONESIA", TRANS TV
+http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/162503
 
 #EXTINF:-1 tvg-id="TRANS TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-ttv.png" group-title="🇮🇩 INDONESIA", TRANS TV V+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -292,8 +299,7 @@ http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91dec6fd9fd84b879aacc027bf532790:588a2214bfb91fc0150b9ac2a745cef8
-###https://av-ch-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash/NetTV-HD.mpd
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/6941abe8211d4ce8bd13d9b96bdd1630/index.mpd
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
 
 #EXTINF:-1 tvg-id="VTV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://thumb.viva.id/jagodangdut/1265x711/2023/10/23/65367acabc267-tv-digital-vtv_jagodangdut.jpg" group-title="🇮🇩 INDONESIA", VTV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
@@ -304,11 +310,10 @@ https://flv.intechmedia.net/live/ch107.m3u8
 https://nextgenz.my.id/event/pidio/play.m3u8?id=8237&type=hls
 
 #EXTINF:-1 tvg-id="CNN Indonesia.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🇮🇩 INDONESIA" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/Logo-CNN-Indonesia-Peta-Indonesia.jpg?v=8.3.1", CNN INDONESIA
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1006963896_b384000_sleng.m3u8
+http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/165062
 
 #EXTINF:-1 tvg-id="CNBC - [Channel 337].id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://awsimages.detik.net.id/visual/2018/02/08/707668e4-5770-4679-9b4b-9ff343b68eb6_169.jpeg?w=650" group-title="🇮🇩 INDONESIA",CNBC INDONESIA
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u8
+http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/162137
 
 #EXTINF:-1 tvg-id="TVRI - [Channel 118].id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://thumbor.prod.vidiocdn.com/ITgomqe4r80G_YlUJO-ZLBdgztM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="🇮🇩 INDONESIA", TVRI
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -427,9 +432,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="🇮🇩 INDONESIA" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://pic.bstarstatic.com/ugc/95ceaf85629ec13c7543065224102637.jpg", BN CHANNEL
 http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-title="🇮🇩 INDONESIA" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIGFVOhjdQWs_aQDjJKSqD0euYXf1aOsMt4A&s", JURNAL TV
-https://v3.siar.us/humabetangtv/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="IDX HD - [Channel 436].id" group-title="🇮🇩 INDONESIA" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTYJAh-gCXdiT466vu9IBAya2caQ2viI--Gw&s", IDX CHANNEL
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -479,14 +481,11 @@ https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/in
 #KODIPROP:inputstream.adaptive.license_key=483c71dd36fd45dd965321e8c568ba42:719598f53c998c618adf76a8f4f17fd1
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
 
-#EXTINF:-1 tvg-id="Dunia Lain.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9MBz85NL86ozxKdu-9gMsDb1c6myYtChy-g&s" group-title="DAERAH", Dunia Lain TRV
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fcc.manggatv09.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
+#EXTINF:-1 tvg-id="Dunia Lain.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9MBz85NL86ozxKdu-9gMsDb1c6myYtChy-g&s" group-title="DAERAH", Dunia Lain
+http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/298524
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-title="DAERAH" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIGFVOhjdQWs_aQDjJKSqD0euYXf1aOsMt4A&s", JURNAL TV
+https://v3.siar.us/humabetangtv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6JuubV7C1WNgKYdp07g_LKxiJdpe8C855lQ&s" group-title="DAERAH", OXYGEN TV
 https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
@@ -661,9 +660,6 @@ https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://storage.tvku.tv/tvkuweb/v2/assets/ourexpertise/2022-02-28-22-29-44.png" group-title="DAERAH", TVKU (SEMARANG)
 https://tvku.tv/hlsstream/hls/live.m3u8
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3QL9Q1-u25msHzmN7QXqdp8_pJT3zRekfSw&s" group-title="DAERAH", PRIMA TV
-https://primatv.siar.us/primatv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/PKTV_New_Logo_2020.png/250px-PKTV_New_Logo_2020.png" group-title="DAERAH", PKTV (KALTIM)
 https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8
@@ -1399,19 +1395,22 @@ https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/maste
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
 #https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-https://a129aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/bsaaetko8v/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+#https://a129aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/bsaaetko8v/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+http://slayerteam.in.rs:80/play/live.php?mac=00:1B:79:F0:81:7F&stream=79486&extension=ts&play_token=hhvymv48eO
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🎖️ Sports" tvg-logo="https://dnl.tntsports.co.uk/sd/img/og/tntsports.jpg", TNT Sports 2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
-https://a129aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#https://a129aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+http://slayerteam.in.rs:80/play/live.php?mac=00:1B:79:F0:81:7F&stream=79485&extension=ts&play_token=33Abi2ZS8M
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🎖️ Sports" tvg-logo="https://dnl.tntsports.co.uk/sd/img/og/tntsports.jpg", TNT Sports 3
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
-https://a129aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+#https://a129aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+http://slayerteam.in.rs:80/play/live.php?mac=00:1B:79:F0:81:7F&stream=79484&extension=ts&play_token=KtVK7zKudO
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🎖️ Sports" tvg-logo="https://dnl.tntsports.co.uk/sd/img/og/tntsports.jpg", TNT Sports 4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1622,29 +1621,28 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1 tvg-id="Aljazeera.id" tvg-logo="https://www.dens.tv/images/channel-logo/56.jpg" group-title="📺 NEWS", Al Jazeera English DNS
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h143/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Al_Jazeera_English
+http://op-group1-swiftservehd-1.dens.tv/h/h143/index2.m3u8
 
 #EXTINF:-1 tvg-id="Aljazeera.id" tvg-logo="https://www.dens.tv/images/channel-logo/27.jpg" group-title="📺 NEWS", Al Jazeera Arabic DNS
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/s/s16/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Al_Jazeera_Arabic
+http://op-group1-swiftservehd-1.dens.tv/s/s16/index.m3u8
 
 #EXTINF:-1 tvg-id="France 24.id" tvg-logo="https://www.dens.tv/images/channel-logo/69.jpg" group-title="📺 NEWS", France 24 DNS
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservesd-1.dens.tv/s/s22/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=France_24
+http://op-group1-swiftservesd-1.dens.tv/s/s22/index.m3u8
 
 #EXTINF:-1 tvg-id="Metro TV.id" group-title="📺 NEWS" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://thumbor.prod.vidiocdn.com/3f1SUZvUgp_5WlH1xqSYL6Mnz_E=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-2eba56.jpg",METRO TV DNS
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Metro_TV
+http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
 
 #EXTINF:-1 tvg-id="CNBC - [Channel 337].id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://awsimages.detik.net.id/visual/2018/02/08/707668e4-5770-4679-9b4b-9ff343b68eb6_169.jpeg?w=650" group-title="📺 NEWS",CNBC INDONESIA
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u8
+http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/165062
 
 #EXTINF:-1 tvg-id="CNN Indonesia.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="📺 NEWS" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/Logo-CNN-Indonesia-Peta-Indonesia.jpg?v=8.3.1", CNN INDONESIA
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1006963896_b384000_sleng.m3u8
+http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/162137
 
 
 
@@ -1839,7 +1837,7 @@ https://dl.dropboxusercontent.com/scl/fi/kfhn1rdcgeb4cdu9ccvxr/lv_0_202506162008
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://deadline.com/wp-content/uploads/2025/09/hbo-logo.jpg?w=681&h=383&crop=1" group-title="📺 HBO", HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-https://raw.githubusercontent.com/quuen2024/EmyLie/refs/heads/queen/hbo.m3u8
+http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/306484
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnnv1H8AHrcvY_GL-ypdUM57RuiZCWVTKHlw&s" group-title="📺 HBO", HBO HITS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1997,6 +1995,9 @@ https://dl.dropboxusercontent.com/scl/fi/kfhn1rdcgeb4cdu9ccvxr/lv_0_202506162008
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8?app_type=web&userid=lite&chname=Quran_TV
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9ROxdqbE80tWNGCron2ZzwZ78kDfJ5GAASg&s" group-title="🕌 RELIGI", NABAWI TV
+http://194.42.205.99:8070/F36591/3f1a2b5c/306469
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://alwafatarim.tv/assets/images/slider/1703158084_695299141540073f744a.jpg" group-title="🕌 RELIGI", AL WAFA TARIM
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
@@ -2578,6 +2579,7 @@ https://dl.dropboxusercontent.com/scl/fi/kfhn1rdcgeb4cdu9ccvxr/lv_0_202506162008
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://www.apple.com/v/apple-tv/b/images/meta/apple-tv__ft1nltyknfmi_og.png" group-title="🍿 | APPLE TV", APPLE TV+ INFO
 http://my.bianet.es.vip.hk:80///dDs/741669
+http://103.254.122.79:80///C1645263A1D245C/1sFTVBSVCP/741669?token=SEReU0dfFg8WBVEEVAMMVlUDUAwEBFdbAlMABwhXVwELU1AEAw4FUQYWGxRGRUZWVl9tXVAWWA4HUwEFCB9HQUADRG1dUxYPFgUGAgMIAgsAEB4WQF0PXBFYBgQGAlUHClYOAhgVRFxQFg0UBgYCAgYQHhZRTBZcQQxWX25XAEJaBVMQDllBWVgYFVlbblBWWlNcUBYOQAkRThVaQkNHDl0TWl4YFVZcQEZWQlATDhEDBQoMFhhAWlwXWUdDSkcOES9yEBgVUU1AUVlFXF5aEQ0QRkcWGEBQQD1FVkJHF1FSC1NAFg0WBRYYFVtUSWtQWFxcUVdAC1ZdERUJEwJHGBELWVxdQ1tHa0ReUhcLFgoBABAYFkERXEE9XkMTCUcFA1UYAwMFGgIFGgIFF0w=
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://www.apple.com/v/apple-tv/b/images/meta/apple-tv__ft1nltyknfmi_og.png" group-title="🍿 | APPLE TV", APPLE TV+ 1
 http://my.bianet.es.vip.hk:80///dDs/741670
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://www.apple.com/v/apple-tv/b/images/meta/apple-tv__ft1nltyknfmi_og.png" group-title="🍿 | APPLE TV", APPLE TV+ 2
