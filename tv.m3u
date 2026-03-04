@@ -48,29 +48,6 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🛑 APPLE TV", ADU AYAM
 http://49.0.64.96:8007/HiSports
 
-#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://live1.pro2cdnlive.com/live/channel40.flv?wsSecret=1a411a78c0d4cd8da47a1b3a05c3a271&wsABSTime=1772636847
-
-https://live1.pro2cdnlive.com/live/channel41.flv?wsSecret=3cdeb253aa0cfe124c0cd7bfe3a7b4e9&wsABSTime=1772636928
-
-https://live1.pro2cdnlive.com/live/channel43.flv?wsSecret=e11aaabf857fc817cf07f309325fb182&wsABSTime=1772636957
-
-https://live1.pro2cdnlive.com/live/channel42.flv?wsSecret=af1247f45ca8344a1699c9198f6b5cde&wsABSTime=1772636988
-
-
-
-
-========= LIVE EVENT 26/01 =========
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🔥 LIVE 26/01/26", #INFO
-https://dl.dropboxusercontent.com/scl/fi/2tful09bnlutur997dy14/info.mp4?rlkey=ofo83lo3fhargghvqq6g1m6l7&st=o4ecugky
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🔥 LIVE 26/01/26", TRAKTIR KOPI
-https://dl.dropboxusercontent.com/scl/fi/fwh3ea7esxf14gkmmrcwu/lv_0_20250723183017.mp4?rlkey=0bkqehfly8mqsi2zxzckfojl3&st=rssjfw21
-
-
 
 
 ======== ALL ENGLAND =========
@@ -81,17 +58,13 @@ https://dl.dropboxusercontent.com/scl/fi/2tful09bnlutur997dy14/info.mp4?rlkey=of
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://asset.tribunnews.com/yg1u2YljnhU8b34dvzZX77pjogc=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/kalteng/foto/bank/originals/Jadwal-All-England-2026.jpg" group-title="🏸 ALL ENGLAND 2026", TRAKTIR KOPI
 https://dl.dropboxusercontent.com/scl/fi/fwh3ea7esxf14gkmmrcwu/lv_0_20250723183017.mp4?rlkey=0bkqehfly8mqsi2zxzckfojl3&st=rssjfw21
 
-
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://asset.tribunnews.com/yg1u2YljnhU8b34dvzZX77pjogc=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/kalteng/foto/bank/originals/Jadwal-All-England-2026.jpg" group-title="🏸 ALL ENGLAND 2026", ALL ENGLAND
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://live1.pro2cdnlive.com/live/channel40.flv?wsSecret=1a411a78c0d4cd8da47a1b3a05c3a271&wsABSTime=1772636847
-
 https://live1.pro2cdnlive.com/live/channel41.flv?wsSecret=3cdeb253aa0cfe124c0cd7bfe3a7b4e9&wsABSTime=1772636928
-
 https://live1.pro2cdnlive.com/live/channel43.flv?wsSecret=e11aaabf857fc817cf07f309325fb182&wsABSTime=1772636957
-
 https://live1.pro2cdnlive.com/live/channel42.flv?wsSecret=af1247f45ca8344a1699c9198f6b5cde&wsABSTime=1772636988
 
 
@@ -2798,6 +2771,7 @@ https://flv.intechmedia.net/live/ch81.m3u8
  
 </body>
 </html>
+
 
 
 
