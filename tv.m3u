@@ -2659,6 +2659,15 @@ http://my.bianet.es.vip.hk:80///dDs/741433
 
 
 
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🍿 Monarch: Legacy of Monsters", #INFO
+https://dl.dropboxusercontent.com/scl/fi/kfhn1rdcgeb4cdu9ccvxr/lv_0_20250616200820.mp4?rlkey=b9ile2myatmd420mvwjrk7zpj&st=556756nz
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PCy0agT1efOkZ6hh5sTUmg/1200x675.jpg" group-title="🍿 Monarch: Legacy of Monsters", Monarch: Legacy of Monsters Season 2 Episode 1
+https://playerngefilm21.rpmlive.online/hls/ZKeYazHoJjd65wH2TQylWw/q3o/fmg9yxc6/dasnim/tt/master.m3u8?v=1766826492
+
+
+
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="YOUTV", VTV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch107.m3u8
@@ -2771,6 +2780,7 @@ https://flv.intechmedia.net/live/ch81.m3u8
  
 </body>
 </html>
+
 
 
 
