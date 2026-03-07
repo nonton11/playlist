@@ -2666,6 +2666,9 @@ https://dl.dropboxusercontent.com/scl/fi/kfhn1rdcgeb4cdu9ccvxr/lv_0_202506162008
 https://playerngefilm21.rpmlive.online/hls/ZKeYazHoJjd65wH2TQylWw/q3o/fmg9yxc6/dasnim/tt/master.m3u8?v=1766826492
 https://dm21.embed4me.vip/hls/JugKSZIQmpE6UO4zgxGX9g/6hf/5z1ivqbn/mu5kt8/tt/master.m3u8?v=1766826492
 
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PCy0agT1efOkZ6hh5sTUmg/1200x675.jpg" group-title="🍿 Monarch: Legacy of Monsters", S2 E2 Monarch: Legacy of Monsters
+https://playerngefilm21.rpmlive.online/hls/PsaECCLpSfHtjTjgdreLzw/ic/afyhwv5v/p8eqkf/tt/master.m3u8?v=1766826492
+
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="YOUTV", VTV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
@@ -2779,6 +2782,7 @@ https://flv.intechmedia.net/live/ch81.m3u8
  
 </body>
 </html>
+
 
 
 
