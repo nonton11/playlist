@@ -49,31 +49,6 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd
 http://49.0.64.96:8007/HiSports
 
 
-
-======== ALL ENGLAND =========
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🏸 ALL ENGLAND 2026", #INFO
-https://dl.dropboxusercontent.com/scl/fi/2tful09bnlutur997dy14/info.mp4?rlkey=ofo83lo3fhargghvqq6g1m6l7&st=o4ecugky
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🏸 ALL ENGLAND 2026", TRAKTIR KOPI
-https://dl.dropboxusercontent.com/scl/fi/fwh3ea7esxf14gkmmrcwu/lv_0_20250723183017.mp4?rlkey=0bkqehfly8mqsi2zxzckfojl3&st=rssjfw21
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://asset.tribunnews.com/yg1u2YljnhU8b34dvzZX77pjogc=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/kalteng/foto/bank/originals/Jadwal-All-England-2026.jpg" group-title="🏸 ALL ENGLAND 2026", ALL ENGLAND
-#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://live1.pro2cdnlive.com/live/channel40.flv?wsSecret=89d339915823b64513195cdc9dc89129&wsABSTime=1772899467
-https://live1.pro2cdnlive.com/live/channel40.flv?wsSecret=f29b93f0a7e165ad940cee2480cb9f59&wsABSTime=1772899501
-
-
-
-#EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://xxyznt1-cf.didjhfyu8yg.sbs/auth%3Dfcf9cabe7319715fa91440c1a96eadd3160deefe20f3f3668613a6f3c18aa9809e0a92d44870955df31d9871264724c01ff133e794e3f5602d542d8bbab9e0036fe3065b1a7af7ac0671d65b5e137f6eb7df5bb2415a7379c78bf350548feafd247997fc18b4f35ec0db055b8bf2c5615f3e210682da2137aa4c1502a843c2a23c70eece0a68c5f6750f81a20e9e38d1db1221a1629bc8e89a55638fb82d5b5f247a6f8ce1e9eca31b405e40d5650e9d7ca0c50a5548d29f42d60bbaf6e604c038b471dce49c37af45ceaf56c04ff980%26cid%3DWTPO2xsEDxxwrNDfJpBmS260307%26_v%3D2%26_r%3DPNMZXv%26_vis%3Dd943f3b197cfd02c5d7fe91937406d60fffc951b25bb1bbe389f44fad77a8e8c%26_vvs%3D00800c5a47b084e9e52c8015ad0573953b042716cc4579ca696ff6abdb2c5261%26_vas%3Dff3c81e45082e103b7ba6b2cdecb2ba96e7bad5478f38003741c983df7d4d8fe/app/c409009.m3u8
-
-
-
-
 ======== LIVE EVENT =========
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="⭐ LIVE EVENT", #INFO
@@ -2783,6 +2758,7 @@ https://flv.intechmedia.net/live/ch81.m3u8
  
 </body>
 </html>
+
 
 
 
