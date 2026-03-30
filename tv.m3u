@@ -53,25 +53,29 @@ http://49.0.64.96:8007/HiSports
 
 ======== LIVE EVENT =========
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="⭐ FIFA SERIES 2026", #INFO
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="⚽︎ FIFA SERIES 2026", #INFO
 https://dl.dropboxusercontent.com/scl/fi/2tful09bnlutur997dy14/info.mp4?rlkey=ofo83lo3fhargghvqq6g1m6l7&st=o4ecugky
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="⭐ FIFA SERIES 2026", TRAKTIR KOPI
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="⚽︎ FIFA SERIES 2026", TRAKTIR KOPI
 https://dl.dropboxusercontent.com/scl/fi/fwh3ea7esxf14gkmmrcwu/lv_0_20250723183017.mp4?rlkey=0bkqehfly8mqsi2zxzckfojl3&st=rssjfw21
 
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://periskop-s3-1.s3.ap-southeast-3.amazonaws.com/media-berita/screenshot-2026-02-24-at-13-47-30-699d4996b58ef.webp" group-title="⭐ FIFA SERIES 2026", 20:00 Indonesia vs St. Kitts and Nevis
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://periskop-s3-1.s3.ap-southeast-3.amazonaws.com/media-berita/screenshot-2026-02-24-at-13-47-30-699d4996b58ef.webp" group-title="⚽︎ FIFA SERIES 2026", 15:30 Saint Kitts and Nevis vs Solomon Islands
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=e07cd37f118d9ae15ce29de8663abe38&wsABSTime=1774657775
-https://live3.procdnlive.com/livecdn/channel11.flv?auth_key=3000001774614669-0-0-ac1c2b6d25e9986c44be4fdd92dee801
-https://live5.msrktz.app/live/97312754.m3u8
+https://live1.pro2cdnlive.com/live/channel8.flv?wsSecret=867fd28969f36428aea67503323a9607&wsABSTime=1774882219
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://periskop-s3-1.s3.ap-southeast-3.amazonaws.com/media-berita/screenshot-2026-02-24-at-13-47-30-699d4996b58ef.webp" group-title="⭐ FIFA SERIES 2026", INDOSIAR
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://periskop-s3-1.s3.ap-southeast-3.amazonaws.com/media-berita/screenshot-2026-02-24-at-13-47-30-699d4996b58ef.webp" group-title="⚽︎ FIFA SERIES 2026", 20:00 Indonesia vs Bulgaria
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=6d90ffd7d063e4bf5ceb7d933814b19c&wsABSTime=1774882161
+https://live5.msrktz.app/live/75748097.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://periskop-s3-1.s3.ap-southeast-3.amazonaws.com/media-berita/screenshot-2026-02-24-at-13-47-30-699d4996b58ef.webp" group-title="⚽︎ FIFA SERIES 2026", INDOSIAR
 http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/162138
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://periskop-s3-1.s3.ap-southeast-3.amazonaws.com/media-berita/screenshot-2026-02-24-at-13-47-30-699d4996b58ef.webp" group-title="⭐ FIFA SERIES 2026", RCTI
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://periskop-s3-1.s3.ap-southeast-3.amazonaws.com/media-berita/screenshot-2026-02-24-at-13-47-30-699d4996b58ef.webp" group-title="⚽︎ FIFA SERIES 2026", RCTI
 http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/157591
 
 
