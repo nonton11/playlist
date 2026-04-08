@@ -449,10 +449,8 @@ https://atemeshield1-voe.sysln.id/live/eds/IDXChannelHD/mediampd/IDXChannelHD.mp
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="🇮🇩 INDONESIA" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGDYS2MYZgeSD3AQQaqgFfct__yZmC7Kk43w&s", TVR PARLEMEN
 http://103.18.181.69:1935/golive/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-title="🇮🇩 INDONESIA" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://bajo.jumbomark.com/labels/JID2021030241", SINPO TV VDO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=19046&type=hls
+#EXTINF:-1 tvg-id="Apple TV.id" group-title="🇮🇩 INDONESIA" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://bajo.jumbomark.com/labels/JID2021030241", SINPO TV
+https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
 
   
 
