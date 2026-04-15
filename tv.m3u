@@ -686,7 +686,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="🇲🇾 | MALAYSIA" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png"  tvg-logo="https://malaysia-tv.net/wp-content/uploads/2025/03/TV3-Live-Streaming-HD-Now-3.webp", TV3
-https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/tv3m.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://zozotv.xyz:443/live/ZZA21216/zxe36880/19.ts
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="🇲🇾 | MALAYSIA" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png"  tvg-logo="https://malaysia-tv.net/wp-content/uploads/2025/03/TV6-Malaysia-Live-Streaming-HD-Now.webp", TV6 
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
@@ -700,9 +701,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a9c619074ed38c20e25ad36c3c57c10c:056e1e49573d2caee5cb4fe78f8c4f3d
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=8tv
-#https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
-#https://link.zozotv.xyz:443/live/usez37/zxy921/21.ts
-#https://live-ssar-01.tonton.com.my/stream-8tv/master.m3u8?bpkio_serviceid=6c0958d82a830a02c91ce241c1aad7d5
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="🇲🇾 | MALAYSIA" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png"  tvg-logo="https://assets.revmedia.my/wp-content/uploads/2025/02/26050416/TV9-1024x576.png", TV9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -717,10 +715,6 @@ https://zozotv.xyz:443/live/ZZA21216/zxe36880/36.ts
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="🇲🇾 | MALAYSIA" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Logo_Saluran_Astro_First_%281_Februari_2024_2_Mac_2025%29.png", ASTRO FIRST
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://zozotv.xyz:443/live/ZZA21216/zxe36880/822.ts
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-title="🇲🇾 | MALAYSIA" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png", ASTRO PRIMA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://zozotv.xyz:443/live/ZZA21216/zxe36880/33.ts
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="🇲🇾 | MALAYSIA" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png"  tvg-logo="https://mifntechnology.github.io/siaranMy/logo/OkeyTv.png", OKEY TV
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
@@ -750,13 +744,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/in
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://fta1-cdn-flr.visionplus.id/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
-  
-#EXTINF:-1 tvg-id="Apple TV.id" group-title="🇰🇷 | KOREA" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtOF852NSJuMKVeASI2p5tp1o-gU0XrOD1A&s", ONE
-#http://ktpremium.online:2095/live/Halim8781/Halim8781/73987.ts
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7e68d7c2667465f976361eb0d6bd0c1:32a856d04efbf93cee7b2c97643d7998
-https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mediampd/ONEHD.mpd
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="🇰🇷 | KOREA" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDQrsVcusoxIThSll9H0Uh9-y3ecPHyX4Q&s", K+ INDI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
