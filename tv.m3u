@@ -2102,16 +2102,16 @@ https://cctv.cirebonkota.go.id/hls/atcs-simpang-jabang-bayi/index.m3u8
 https://cctv-backend.cirebonkab.go.id:6969/memfs/3aa30f9f-06c8-41c7-9571-04fc18c7fc7a.m3u8
 
 #EXTINF:-1 group-title="🎥 CCTV CIREBON" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", EXIT TOL CIPERNA 1
-https://cctv-backend.cirebonkab.go.id:6969/memfs/f9beb377-9c08-4af5-8add-f788d3d8bd6e_output_0.m3u8?session=TRMRPWFoZGKY96LW9wUW3e
+https://cctv-backend.cirebonkab.go.id:6969/memfs/f9beb377-9c08-4af5-8add-f788d3d8bd6e.m3u8
 
 #EXTINF:-1 group-title="🎥 CCTV CIREBON" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", EXIT TOL CIPERNA 2
-https://cctv-backend.cirebonkab.go.id:6969/memfs/ca5778b0-1057-40fa-9eae-f55e83944046_output_0.m3u8?session=7fbMyxzfLFqDKzFZrjmdJi
+https://cctv-backend.cirebonkab.go.id:6969/memfs/ca5778b0-1057-40fa-9eae-f55e83944046.m3u8
 
 #EXTINF:-1 group-title="🎥 CCTV CIREBON" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", BUNDARAN KEDAWUNG 1
-https://cctv-backend.cirebonkab.go.id:6969/memfs/15ce2502-ec36-49d0-9eef-8243f90f582d_output_0.m3u8?session=FdsMVvuaBZ5bd67FSU7oUx
+https://cctv-backend.cirebonkab.go.id:6969/memfs/15ce2502-ec36-49d0-9eef-8243f90f582d.m3u8
 
 #EXTINF:-1 group-title="🎥 CCTV CIREBON" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", BUNDARAN KEDAWUNG 2
-https://cctv-backend.cirebonkab.go.id:6969/memfs/a71f2a04-c4c0-4280-9d71-d572d01fe1e6_output_0.m3u8?session=AuCjfNz9jRMuCjyH8e89qo
+https://cctv-backend.cirebonkab.go.id:6969/memfs/a71f2a04-c4c0-4280-9d71-d572d01fe1e6.m3u8
 
 #EXTINF:-1 group-title="🎥 CCTV CIREBON" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SIMPANG PLERED 1
 https://cctv-backend.cirebonkab.go.id:6969/memfs/2ecc2c51-a97d-456c-82b3-584b7b786873.m3u8
@@ -2129,40 +2129,43 @@ https://cctv-backend.cirebonkab.go.id:6969/memfs/88f8003a-9c18-4f0a-b4fa-f5b2c4f
 https://cctv-backend.cirebonkab.go.id:6969/memfs/41e2b9e2-166c-41da-a2a1-c769421a2d3b.m3u8
 
 #EXTINF:-1 group-title="🎥 CCTV CIREBON" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SIMPANG CEMPAKA 1
-https://cctv-backend.cirebonkab.go.id/memfs/b724f8c4-f7f8-4ade-975d-a51f79b2747c_output_0.m3u8?session=8UjeHKjaKDnoJcKLHc4fXN
+https://cctv-backend.cirebonkab.go.id:6969/memfs/addee2ff-3ca4-4f4e-91e0-0b3ea9468393.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV CIREBON" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SIMPANG CEMPAKA 2
+https://cctv-backend.cirebonkab.go.id:6969/memfs/d28bfca9-6986-40e5-ae83-cbaf2ab54ad3.m3u8
 
 #EXTINF:-1 group-title="🎥 CCTV CIREBON" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", JLN GRONGGONG
-https://cctv-backend.cirebonkab.go.id/memfs/215602f7-0cbb-43c3-8ed3-1083f9b138b2_output_0.m3u8?session=FVn6yUSzU7yyxppwY4Qthq
+https://cctv-backend.cirebonkab.go.id:6969/memfs/23f73b3b-8d2a-47af-ae63-88e52e50ae75.m3u8
 
 #EXTINF:-1 group-title="🎥 CCTV CIREBON" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", EXIT TOL ASTANAJAPURA 1
-https://cctv-backend.cirebonkab.go.id/memfs/831767fc-d1fc-4e49-a8da-dba41fb12f88_output_0.m3u8?session=hyXeUZrW52zu3FcwYWACVp
+https://cctv-backend.cirebonkab.go.id:6969/memfs/9b4e3bec-18b3-4604-bfb3-62f0cff4750d.m3u8
 
 #EXTINF:-1 group-title="🎥 CCTV CIREBON" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", EXIT TOL ASTANAJAPURA 2
-https://cctv-backend.cirebonkab.go.id/memfs/b305b7f4-6586-4ef3-ac99-52fe5730cb28_output_0.m3u8?session=6fR7BNeBY2JXR7KdMAhmiY
+https://cctv-backend.cirebonkab.go.id:6969/memfs/30338f79-90e2-4684-ac21-f338c264ad86.m3u8
 
 #EXTINF:-1 group-title="🎥 CCTV CIREBON" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", PERTIGAAN PASAR GEBANG
-https://cctv-backend.cirebonkab.go.id/memfs/ce509abb-5d87-461c-8623-79029d0fb66f_output_0.m3u8?session=33CZ8oBBumMGSdzxTeQRSQ
+https://cctv-backend.cirebonkab.go.id:6969/memfs/1f5811df-8482-4a55-b00e-f4010c78bbee.m3u8
 
 #EXTINF:-1 group-title="🎥 CCTV CIREBON" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SIMPANG PASAR PABUARAN
-https://cctv-backend.cirebonkab.go.id/memfs/858ed1bc-6ba6-48fa-9067-2755ff518296_output_0.m3u8?session=jrS5y6neJuvqhRusBpTSax
+https://cctv-backend.cirebonkab.go.id:6969/memfs/26d5ad8b-8f22-4002-b31f-387e1cd2cbee.m3u8
 
 #EXTINF:-1 group-title="🎥 CCTV CIREBON" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SIMPANG TERMINAL LOSARI 1
-https://cctv-backend.cirebonkab.go.id/memfs/28e36d45-192a-453b-bdac-06b51897aff0_output_0.m3u8?session=D4r5YH55utEuEcxmDKTUau
+https://cctv-backend.cirebonkab.go.id:6969/memfs/a87b98b8-be04-4415-a0ad-8d5d582c17e4.m3u8
 
 #EXTINF:-1 group-title="🎥 CCTV CIREBON" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SIMPANG TERMINAL LOSARI 2
-https://cctv-backend.cirebonkab.go.id/memfs/ad53bc01-0415-4a8e-a006-00da6a69eb2e_output_0.m3u8?session=eoNecF7oJ6rVyqLjL2Quh7
+https://cctv-backend.cirebonkab.go.id:6969/memfs/a33ab3f4-2d64-42f4-8f8b-733ba260fcc4.m3u8
 
 #EXTINF:-1 group-title="🎥 CCTV CIREBON" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SIMPANG PASAR SUMBER 1
-https://cctv-backend.cirebonkab.go.id/memfs/7febbdc0-59ed-4526-96cc-417629c76334_output_0.m3u8?session=8DRB3rxBD74FrHepo4B6Xt
+https://cctv-backend.cirebonkab.go.id:6969/memfs/9e5cb528-a433-468d-9570-be0ec1316120.m3u8
 
 #EXTINF:-1 group-title="🎥 CCTV CIREBON" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SIMPANG PASAR SUMBER 2
 https://cctv-backend.cirebonkab.go.id/memfs/22e17cf5-3945-4ce0-b77b-11ee65c073c4_output_0.m3u8?session=8ZytSxkBEonh4x6GVYPQZv
 
 #EXTINF:-1 group-title="🎥 CCTV CIREBON" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SIMPANG BABAKAN SUMBER
-https://cctv-backend.cirebonkab.go.id/memfs/3f7c74ef-7901-4344-8715-752c7f6f1bbc_output_0.m3u8?session=aDMX6AHc66QxsDH4T2X3ko
+https://cctv-backend.cirebonkab.go.id:6969/memfs/d53579b1-67a7-4577-931e-dd491f332d4b.m3u8
 
 #EXTINF:-1 group-title="🎥 CCTV CIREBON" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SIMPANG TAMAN PKK
-https://cctv-backend.cirebonkab.go.id/memfs/0ba55700-6269-4281-8995-cc209a60285d_output_0.m3u8?session=DG8EzwKBa6yyiT9MGAAwCF
+https://cctv-backend.cirebonkab.go.id:6969/memfs/0d3f6af6-b408-4739-914c-4fe42da1489a.m3u8
 
 #EXTINF:-1 group-title="🎥 CCTV CIREBON" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", ALUN-ALUN PATARAKSA
 https://cctv-backend.cirebonkab.go.id/memfs/ba94e3cb-ff3f-42de-95bb-2e13fb53ba86_output_0.m3u8?session=AHzdBuD4kMkFrgNGmtadxy
