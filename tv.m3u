@@ -2050,12 +2050,6 @@ https://dl.dropboxusercontent.com/scl/fi/kfhn1rdcgeb4cdu9ccvxr/lv_0_202506162008
 #EXTINF:-1 group-title="🎥 CCTV CIREBON" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", KASEPUHAN (Kota)
 https://cctv.cirebonkota.go.id/hls/lemah-wungkuk/index.m3u8
 
-#EXTINF:-1 group-title="🎥 CCTV CIREBON" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SIMPANG SUNYARAGI (Kota)
-https://cctv.cirebonkota.go.id/hls/simpang-sunyaragi/index.m3u8
-
-#EXTINF:-1 group-title="🎥 CCTV CIREBON" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SIMPANG DRAJAT (Kota)
-https://cctv.cirebonkota.go.id/hls/simpang-drajat/index.m3u8
-
 #EXTINF:-1 group-title="🎥 CCTV CIREBON" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SUDARSONO (Kota)
 https://cctv.cirebonkota.go.id/hls/sudarsono/index.m3u8
 
@@ -2066,13 +2060,7 @@ https://cctv.cirebonkota.go.id/hls/depan-ataqwa/index.m3u8
 https://cctv.cirebonkota.go.id/hls/flyover-pegambiran/index.m3u8
 
 #EXTINF:-1 group-title="🎥 CCTV CIREBON" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", PEMUDA (Kota)
-https://cctv.cirebonkota.go.id/hls/pemuda/index.m3u8
-
-#EXTINF:-1 group-title="🎥 CCTV CIREBON" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SILIWANGI ARAH VETERAN (Kota)
-https://cctv.cirebonkota.go.id/hls/siliwangi-arah-veteran/index.m3u8
-
-#EXTINF:-1 group-title="🎥 CCTV CIREBON" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CIPTO (Kota)
-https://cctv.cirebonkota.go.id/hls/jalan-cipto/index.m3u8
+https://cctv.cirebonkota.go.id/hls/jalan-pemuda/index.m3u8
 
 #EXTINF:-1 group-title="🎥 CCTV CIREBON" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SIMPANG SAMSAT BYPASS (Kota)
 https://cctv.cirebonkota.go.id/hls/atcs-simpang-samsat/index.m3u8
