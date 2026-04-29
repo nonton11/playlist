@@ -48,10 +48,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🛑 APPLE TV", ADU AYAM
 http://49.0.64.96:8007/HiSports
 
-#EXTVLCOPT:http-origin=https://teagan01bp.mvksstick9uq6cprotection.cfd
-#EXTVLCOPT:http-referrer=https://teagan01bp.mvksstick9uq6cprotection.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://fhlsport302.tbaa149f8pqlisten.ru/token-IEF%2BzrnBIaWGv2MoxPY6m2qLlJvWgn3jaHGik%2FJJRTSmt%2BWfHUFaCZQtqxdWW00GQn3BwzNnlPx3fpVIURMK5Z5kSEi0PYE%3Da/v3/get/s3/aHR0cHM6Ly9wbGF5LmdweWN2YWMuY29t/rrty/sd-1-4536334.m3u8?txSecret=99e6ecc1310a01fed56b9da426642c93&txTime=69F06428
+
 
 
 ======== Thomas Uber Cup =========
@@ -340,7 +337,15 @@ https://flv.intechmedia.net/live/ch107.m3u8
 
 #EXTINF:-1 tvg-id="Mentari TV.id" group-title="🇮🇩 INDONESIA" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://thumbor.prod.vidiocdn.com/ptdO45dn29cHF_rlraD3h583EuQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg", MENTARI TV VD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://nextgenz.my.id/event/pidio/play.m3u8?id=8237&type=hls
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://tvgp.diskon.cloud/red/8237.drm
+http://tvgp.diskon.cloud/red/8237.mpd
 
 #EXTINF:-1 tvg-id="CNN Indonesia.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🇮🇩 INDONESIA" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/Logo-CNN-Indonesia-Peta-Indonesia.jpg?v=8.3.1", CNN INDONESIA
 http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/165062
@@ -450,10 +455,19 @@ http://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8
 
 #EXTINF:-1 tvg-id="Garuda TV.id" group-title="🇮🇩 INDONESIA" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://garuda.tv/wp-content/uploads/2023/09/Untitled-design-9.png", GARUDA TV
-https://hgmtv.com:19360/garudatvlivestreaming/576p.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
 
-#EXTINF:-1 tvg-id="BTV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://thumbor.prod.vidiocdn.com/TItrZkxKd6IZiFiGGEvQgkSAzio=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/btv-bd893c.jpg" group-title="🇮🇩 INDONESIA", BTV
-https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
+#EXTINF:-1 tvg-id="BTV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://thumbor.prod.vidiocdn.com/TItrZkxKd6IZiFiGGEvQgkSAzio=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/btv-bd893c.jpg" group-title="🇮🇩 INDONESIA", BTV DNS
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8
+
+#EXTINF:-1 tvg-id="BTV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://thumbor.prod.vidiocdn.com/TItrZkxKd6IZiFiGGEvQgkSAzio=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/btv-bd893c.jpg" group-title="🇮🇩 INDONESIA", BTV V+
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47d8c564b0eb4d6ba83f7b155c827024:098f10e1734d00c0177bae1236db60fc
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/36d936f64cd2482ebc077567dbcf0919/index.mpd
 
 #EXTINF:-1 tvg-id="RTV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://thumbor.prod.vidiocdn.com/ysF_pJFLhGCG8XitGI4bcpoJ7ZQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg" group-title="🇮🇩 INDONESIA", RTV DNS
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -2075,27 +2089,35 @@ https://dl.dropboxusercontent.com/scl/fi/kfhn1rdcgeb4cdu9ccvxr/lv_0_202506162008
 
 
 #EXTINF:-1 group-title="🎥 CCTV CIREBON" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", KASEPUHAN (Kota)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://cctv.cirebonkota.go.id/hls/lemah-wungkuk/index.m3u8
 
 #EXTINF:-1 group-title="🎥 CCTV CIREBON" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SUDARSONO (Kota)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://cctv.cirebonkota.go.id/hls/sudarsono/index.m3u8
 
 #EXTINF:-1 group-title="🎥 CCTV CIREBON" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", DEPAN AT-TAQWA (Kota)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://cctv.cirebonkota.go.id/hls/depan-ataqwa/index.m3u8
 
 #EXTINF:-1 group-title="🎥 CCTV CIREBON" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", FLYOVER PEGAMBIRAN (Kota)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://cctv.cirebonkota.go.id/hls/flyover-pegambiran/index.m3u8
 
 #EXTINF:-1 group-title="🎥 CCTV CIREBON" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", PEMUDA (Kota)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://cctv.cirebonkota.go.id/hls/jalan-pemuda/index.m3u8
 
 #EXTINF:-1 group-title="🎥 CCTV CIREBON" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SIMPANG SAMSAT BYPASS (Kota)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://cctv.cirebonkota.go.id/hls/atcs-simpang-samsat/index.m3u8
 
 #EXTINF:-1 group-title="🎥 CCTV CIREBON" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SIMPANG TERMINAL (Kota)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://cctv.cirebonkota.go.id/hls/atcs-simpang-terminal/index.m3u8
 
 #EXTINF:-1 group-title="🎥 CCTV CIREBON" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SIMPANG KANGGRAKSAN (Kota)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://cctv.cirebonkota.go.id/hls/atcs-simpang-kanggraksan/index.m3u8
 
 #EXTINF:-1 group-title="🎥 CCTV CIREBON" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SIMPANG PERUMNAS (Kota)
@@ -2580,101 +2602,6 @@ https://b.alhastream.com:5032/radio
 
 
 
-
-
-
-========= APPLE TV =========
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🍿 | APPLE TV", #INFO
-https://dl.dropboxusercontent.com/scl/fi/kfhn1rdcgeb4cdu9ccvxr/lv_0_20250616200820.mp4?rlkey=b9ile2myatmd420mvwjrk7zpj&st=556756nz
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://www.apple.com/v/apple-tv/b/images/meta/apple-tv__ft1nltyknfmi_og.png" group-title="🍿 | APPLE TV", APPLE TV+ INFO
-http://my.bianet.es.vip.hk:80///dDs/741669
-http://103.254.122.79:80///C1645263A1D245C/1sFTVBSVCP/741669?token=SEReU0dfFg8WBVEEVAMMVlUDUAwEBFdbAlMABwhXVwELU1AEAw4FUQYWGxRGRUZWVl9tXVAWWA4HUwEFCB9HQUADRG1dUxYPFgUGAgMIAgsAEB4WQF0PXBFYBgQGAlUHClYOAhgVRFxQFg0UBgYCAgYQHhZRTBZcQQxWX25XAEJaBVMQDllBWVgYFVlbblBWWlNcUBYOQAkRThVaQkNHDl0TWl4YFVZcQEZWQlATDhEDBQoMFhhAWlwXWUdDSkcOES9yEBgVUU1AUVlFXF5aEQ0QRkcWGEBQQD1FVkJHF1FSC1NAFg0WBRYYFVtUSWtQWFxcUVdAC1ZdERUJEwJHGBELWVxdQ1tHa0ReUhcLFgoBABAYFkERXEE9XkMTCUcFA1UYAwMFGgIFGgIFF0w=
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://www.apple.com/v/apple-tv/b/images/meta/apple-tv__ft1nltyknfmi_og.png" group-title="🍿 | APPLE TV", APPLE TV+ 1
-http://my.bianet.es.vip.hk:80///dDs/741670
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://www.apple.com/v/apple-tv/b/images/meta/apple-tv__ft1nltyknfmi_og.png" group-title="🍿 | APPLE TV", APPLE TV+ 2
-http://my.bianet.es.vip.hk:80///dDs/741671
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://www.apple.com/v/apple-tv/b/images/meta/apple-tv__ft1nltyknfmi_og.png" group-title="🍿 | APPLE TV", APPLE TV+ 3
-http://my.bianet.es.vip.hk:80///dDs/741672
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://www.apple.com/v/apple-tv/b/images/meta/apple-tv__ft1nltyknfmi_og.png" group-title="🍿 | APPLE TV", APPLE TV+ 4
-http://my.bianet.es.vip.hk:80///dDs/741673
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://www.apple.com/v/apple-tv/b/images/meta/apple-tv__ft1nltyknfmi_og.png" group-title="🍿 | APPLE TV", APPLE TV+ 5
-http://my.bianet.es.vip.hk:80///dDs/741674
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://www.apple.com/v/apple-tv/b/images/meta/apple-tv__ft1nltyknfmi_og.png" group-title="🍿 | APPLE TV", APPLE TV+ 6
-http://my.bianet.es.vip.hk:80///dDs/741675
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://www.apple.com/v/apple-tv/b/images/meta/apple-tv__ft1nltyknfmi_og.png" group-title="🍿 | APPLE TV", APPLE TV+ 7
-http://my.bianet.es.vip.hk:80///dDs/741676
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://www.apple.com/v/apple-tv/b/images/meta/apple-tv__ft1nltyknfmi_og.png" group-title="🍿 | APPLE TV", APPLE TV+ 8
-http://my.bianet.es.vip.hk:80///dDs/741677
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://www.apple.com/v/apple-tv/b/images/meta/apple-tv__ft1nltyknfmi_og.png" group-title="🍿 | APPLE TV", APPLE TV+ 9
-http://my.bianet.es.vip.hk:80///dDs/741678
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://www.apple.com/v/apple-tv/b/images/meta/apple-tv__ft1nltyknfmi_og.png" group-title="🍿 | APPLE TV", APPLE TV+ 10
-http://my.bianet.es.vip.hk:80///dDs/741679
-
-
-
-========= NETFLIX =========
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🍿 | NETFILX", #INFO
-https://dl.dropboxusercontent.com/scl/fi/kfhn1rdcgeb4cdu9ccvxr/lv_0_20250616200820.mp4?rlkey=b9ile2myatmd420mvwjrk7zpj&st=556756nz
-
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://line1.news/wp-content/uploads/2025/04/Ilustrasi-Netflix.jpg" group-title="🍿 | NETFILX", NETFLIX INFO
-http://my.bianet.es.vip.hk:80///dDs/1513047
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://line1.news/wp-content/uploads/2025/04/Ilustrasi-Netflix.jpg" group-title="🍿 | NETFILX", NETFLIX 1
-http://my.bianet.es.vip.hk:80///dDs/1513048
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://line1.news/wp-content/uploads/2025/04/Ilustrasi-Netflix.jpg" group-title="🍿 | NETFILX", NETFLIX 2
-http://my.bianet.es.vip.hk:80///dDs/1513049
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://line1.news/wp-content/uploads/2025/04/Ilustrasi-Netflix.jpg" group-title="🍿 | NETFILX", NETFLIX 3
-http://my.bianet.es.vip.hk:80///dDs/1513050
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://line1.news/wp-content/uploads/2025/04/Ilustrasi-Netflix.jpg" group-title="🍿 | NETFILX", NETFLIX 4
-http://my.bianet.es.vip.hk:80///dDs/1513051
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://line1.news/wp-content/uploads/2025/04/Ilustrasi-Netflix.jpg" group-title="🍿 | NETFILX", NETFLIX 5
-http://my.bianet.es.vip.hk:80///dDs/1513052
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://line1.news/wp-content/uploads/2025/04/Ilustrasi-Netflix.jpg" group-title="🍿 | NETFILX", NETFLIX 6
-http://my.bianet.es.vip.hk:80///dDs/1513053
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://line1.news/wp-content/uploads/2025/04/Ilustrasi-Netflix.jpg" group-title="🍿 | NETFILX", NETFLIX 7
-http://my.bianet.es.vip.hk:80///dDs/1513054
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://line1.news/wp-content/uploads/2025/04/Ilustrasi-Netflix.jpg" group-title="🍿 | NETFILX", NETFLIX 8
-http://my.bianet.es.vip.hk:80///dDs/1513055
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://line1.news/wp-content/uploads/2025/04/Ilustrasi-Netflix.jpg" group-title="🍿 | NETFILX", NETFLIX 9
-http://my.bianet.es.vip.hk:80///dDs/1513056
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://line1.news/wp-content/uploads/2025/04/Ilustrasi-Netflix.jpg" group-title="🍿 | NETFILX", NETFLIX 10
-http://my.bianet.es.vip.hk:80///dDs/1513057
-
-
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🍿 | HBOMAX", #INFO
-https://dl.dropboxusercontent.com/scl/fi/kfhn1rdcgeb4cdu9ccvxr/lv_0_20250616200820.mp4?rlkey=b9ile2myatmd420mvwjrk7zpj&st=556756nz
-
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://img.logo-cdn.cc/hbomax.png" group-title="🍿 | HBOMAX", HBO INFO
-http://my.bianet.es.vip.hk:80///dDs/741423
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://img.logo-cdn.cc/hbomax.png" group-title="🍿 | HBOMAX", HB0 1
-http://my.bianet.es.vip.hk:80///dDs/741424
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://img.logo-cdn.cc/hbomax.png" group-title="🍿 | HBOMAX", HB0 2
-http://my.bianet.es.vip.hk:80///dDs/741425
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://img.logo-cdn.cc/hbomax.png" group-title="🍿 | HBOMAX", HB0 3
-http://my.bianet.es.vip.hk:80///dDs/741426
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://img.logo-cdn.cc/hbomax.png" group-title="🍿 | HBOMAX", HB0 4
-http://my.bianet.es.vip.hk:80///dDs/741427
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://img.logo-cdn.cc/hbomax.png" group-title="🍿 | HBOMAX", HB0 5
-http://my.bianet.es.vip.hk:80///dDs/741428
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://img.logo-cdn.cc/hbomax.png" group-title="🍿 | HBOMAX", HB0 6
-http://my.bianet.es.vip.hk:80///dDs/741429
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://img.logo-cdn.cc/hbomax.png" group-title="🍿 | HBOMAX", HB0 7
-http://my.bianet.es.vip.hk:80///dDs/741430
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://img.logo-cdn.cc/hbomax.png" group-title="🍿 | HBOMAX", HB0 8
-http://my.bianet.es.vip.hk:80///dDs/741431
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://img.logo-cdn.cc/hbomax.png" group-title="🍿 | HBOMAX", HB0 9
-http://my.bianet.es.vip.hk:80///dDs/741432
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://img.logo-cdn.cc/hbomax.png" group-title="🍿 | HBOMAX", HB0 10
-http://my.bianet.es.vip.hk:80///dDs/741433
-
-
-
-
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🍿 Monarch: Legacy of Monsters", #INFO
 https://dl.dropboxusercontent.com/scl/fi/kfhn1rdcgeb4cdu9ccvxr/lv_0_20250616200820.mp4?rlkey=b9ile2myatmd420mvwjrk7zpj&st=556756nz
 
@@ -2707,8 +2634,11 @@ https://playerngefilm21.rpmlive.online/hls/O1ZNSCc03we85u-6bOapjg/epu/ipljeq8a/9
 https://dm21.embed4me.vip/hls/EmJh2pgt68mKe-eIZsBmQA/us/xieomnsk/t618qt/tt/master.m3u8?v=1766826492
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PCy0agT1efOkZ6hh5sTUmg/1200x675.jpg" group-title="🍿 Monarch: Legacy of Monsters", S2 E8 Monarch: Legacy of Monsters
+https://playerngefilm21.rpmlive.online/hls/Bdw7NrxyiNVA58MCqVm6Eg/is9/1xmlfz6h/ijv5wy/tt/master.m3u8?v=1766826492
 https://dm21.embed4me.vip/hls/CQE667sKIwmm22OrEx-6iw/gee/h9k8sjg5/ijjv9z/tt/master.m3u8?v=1766826492
 
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PCy0agT1efOkZ6hh5sTUmg/1200x675.jpg" group-title="🍿 Monarch: Legacy of Monsters", S2 E9 Monarch: Legacy of Monsters
+https://playerngefilm21.rpmlive.online/hls/ErNfbtcthotU1zPOTtDYbA/ty/nc3fjg1j/r1pjia/tt/master.m3u8?v=1766826492
 
 
 
