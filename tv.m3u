@@ -51,25 +51,6 @@ http://49.0.64.96:8007/HiSports
 
 
 
-======== Thomas Uber Cup =========
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="⭐ Thomas Uber Cup 2026", #INFO
-https://dl.dropboxusercontent.com/scl/fi/2tful09bnlutur997dy14/info.mp4?rlkey=ofo83lo3fhargghvqq6g1m6l7&st=o4ecugky
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="⭐ Thomas Uber Cup 2026", TRAKTIR KOPI
-https://dl.dropboxusercontent.com/scl/fi/fwh3ea7esxf14gkmmrcwu/lv_0_20250723183017.mp4?rlkey=0bkqehfly8mqsi2zxzckfojl3&st=rssjfw21
-
-
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://bwfthomasubercups.bwfbadminton.com/wp-content/uploads/sites/10/2026/01/TUC-Home-Banner-1180x500.jpg" group-title="⭐ Thomas Uber Cup 2026", Thomas Uber
-https://liveh34byt.vtvprime.vn/hls/SKSS2/04.m3u8
-https://liveh34byt.vtvprime.vn/hls/SKSS3/04.m3u8
-https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8
-https://cdn-hls.taoxanh.biz/live/69f06717203f4_5160/index.m3u8?expire=1777967511&sign=81d0e6e5a2a17ddd9a24a81fe8c9671b
-
-
-
-
 
 
 
@@ -2121,30 +2102,39 @@ https://cctv.cirebonkota.go.id/hls/atcs-simpang-terminal/index.m3u8
 https://cctv.cirebonkota.go.id/hls/atcs-simpang-kanggraksan/index.m3u8
 
 #EXTINF:-1 group-title="🎥 CCTV CIREBON" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SIMPANG PERUMNAS (Kota)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://cctv.cirebonkota.go.id/hls/atcs-simpang-perumnas/index.m3u8
 
 #EXTINF:-1 group-title="🎥 CCTV CIREBON" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SIMPANG GUNUNGSARI (Kota)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://cctv.cirebonkota.go.id/hls/atcs-simpang-gunung-sari/index.m3u8
 
 #EXTINF:-1 group-title="🎥 CCTV CIREBON" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SIMPANG DIKLATPRI PEMUDA (Kota)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://cctv.cirebonkota.go.id/hls/atcs-simpang-diklatpri/index.m3u8
 
 #EXTINF:-1 group-title="🎥 CCTV CIREBON" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SIMPANG SILIWANGI (Kota)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://cctv.cirebonkota.go.id/hls/atcs-simpang-siliwangi/index.m3u8
 
 #EXTINF:-1 group-title="🎥 CCTV CIREBON" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SIMPANG KRUCUK (Kota)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://cctv.cirebonkota.go.id/hls/atcs-simpang-krucuk/index.m3u8
 
 #EXTINF:-1 group-title="🎥 CCTV CIREBON" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", DEPAN KANTOR PD (Kota)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://cctv.cirebonkota.go.id/hls/atcs-depan-kantor-pd/index.m3u8
 
 #EXTINF:-1 group-title="🎥 CCTV CIREBON" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SIMPANG ASIA (Kota)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://cctv.cirebonkota.go.id/hls/atcs-simpang-asia/index.m3u8
 
 #EXTINF:-1 group-title="🎥 CCTV CIREBON" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SIMPANG WINAON (Kota)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://cctv.cirebonkota.go.id/hls/atcs-simpang-winaon/index.m3u8
 
 #EXTINF:-1 group-title="🎥 CCTV CIREBON" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SIMPANG JABANG BAYI (Kota)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://cctv.cirebonkota.go.id/hls/atcs-simpang-jabang-bayi/index.m3u8
 
 #EXTINF:-1 group-title="🎥 CCTV CIREBON" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", PERTIGAAN GUNUNGJATI
@@ -2639,7 +2629,11 @@ https://dm21.embed4me.vip/hls/CQE667sKIwmm22OrEx-6iw/gee/h9k8sjg5/ijjv9z/tt/mast
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PCy0agT1efOkZ6hh5sTUmg/1200x675.jpg" group-title="🍿 Monarch: Legacy of Monsters", S2 E9 Monarch: Legacy of Monsters
 https://playerngefilm21.rpmlive.online/hls/ErNfbtcthotU1zPOTtDYbA/ty/nc3fjg1j/r1pjia/tt/master.m3u8?v=1766826492
+https://dm21.embed4me.vip/hls/D1JF21VHuZM3m5C6SiEPIA/miy/el9qhpk3/ijwvba/tt/master.m3u8?v=1766826492
 
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PCy0agT1efOkZ6hh5sTUmg/1200x675.jpg" group-title="🍿 Monarch: Legacy of Monsters", S2 E10 Monarch: Legacy of Monsters
+https://playerngefilm21.rpmlive.online/hls/9oBzJcGWtKggGH1SMt_W4Q/5c/yg6kbmw6/ua9xef/tt/master.m3u8?v=1766826492
+https://dm21.embed4me.vip/hls/xPdE3OT9uoQpcB4ssxJvaA/rqz/fmg9yocq/jyj3bi/tt/master.m3u8?v=1766826492
 
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="YOUTV", VTV
