@@ -60,6 +60,7 @@ http://49.0.64.96:8007/HiSports
 #EXTVLCOPT:http-referrer=https://xlz.realtimegamepushz.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
 https://live3.procdnlive.com/livecdn/channel23.flv?auth_key=3000001778374512-0-0-602b04635bdf51bef503fbd0d0ea07da
+https://bf.jabflive.com/live/5004438_hd01.m3u8?txSecret=2dc1ada95ed9463419c135eecd7eef28&txTime=6a002d94
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/ycrncrx1/BRI.png" group-title="LIVE EVENT", 15:30 PERSITA VS PERSIJAP
 #EXTVLCOPT:http-origin=https://xlz.realtimegamepushz.com
