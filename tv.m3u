@@ -54,6 +54,15 @@ https://ratu77.adptv.workers.dev/index.mpd?id=18105&type=dash
 
 
 
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1XuZJdezVFYbY5EljcJtbvc1LjSpugLiSJw&s" group-title="BOLA", 19:00 WIB PSM vs Persib 17/05/2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.livepingscorex.com/
+https://live3.procdnlive.com/livecdn/channel81.flv?auth_key=3000001778994263-0-0-219d52c0c09e96b087cb5a00e43c94db
+
+
+
+
 ======== LIVE EVENT =========
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="⭐ LIVE EVENT", #INFO
