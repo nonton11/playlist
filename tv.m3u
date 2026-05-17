@@ -51,6 +51,16 @@ http://49.0.64.96:8007/HiSports
 #EXTVLCOPT:http-origin=https://www.vidio.com
 https://ratu77.adptv.workers.dev/index.mpd?id=18105&type=dash
 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+https://ratu77.adptv.workers.dev/index.mpd?id=205&type=dash
+
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+https://ratu77.adptv.workers.dev/index.mpd?id=19354&type=dash
+
 
 
 
