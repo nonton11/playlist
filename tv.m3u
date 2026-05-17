@@ -454,6 +454,20 @@ https://cdn10jtedge.indihometv.com/atm/DASH/jtv/manifest.mpd
 #EXTINF:-1 tvg-id="Bandung TV.id" group-title="DAERAH" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://i.ytimg.com/vi/4jMq-ebRItY/maxresdefault.jpg", BANDUNG TV
 http://202.150.153.254:443/bandungtvWEBSITE.m3u8
 
+#EXTINF:-1 tvg-id="Bandung TV.id" group-title="DAERAH" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://i.ytimg.com/vi/4jMq-ebRItY/maxresdefault.jpg", BANDUNG TV V+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=86e50e1506af46c780233c0091b67159:549788738d10df77094a0d4efaf0d567
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f16b53f0d5ed459da208c459049c9bb0/index.mpd
+
+#EXTINF:-1 tvg-id="Bali TV.id" group-title="DAERAH" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://e7.pngegg.com/pngimages/277/1003/png-clipart-bali-tv-cable-television-television-channel-bali-bali-tv.png", BALI TV V+
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9cf20a8618854bb8bf3b7891c6cb5606:7284d5c76c7f913632c715f3d5c5aa8a
+https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/index.mpd|referrer=https://visionplus.id
+
 #EXTINF:-1 tvg-id="TV MU.id" group-title="DAERAH" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://images.indihometv.com/tvposter/tvmu.png", TVMUH
 https://e.siar.us/live/tvmu.m3u8
 
@@ -561,7 +575,7 @@ https://v3.siar.us/ficomchannel/live/playlist.m3u8
 https://5bf7b725107e5.streamlock.net/imtv/imtv/chunklist_w422579395.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJTp5MNa6whRG_fADr_Gjeh4yDE-OpDtNHBQ&s" group-title="DAERAH", BANTEN TV
-https://5bf7b725107e5.streamlock.net/bantentv/bantentv/chunklist_w231140090.m3u8
+https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="DAAI TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnQpZys0vShZK9bXixmdoMVCM0QO4bqAlGBA&s" group-title="DAERAH", JITV
 https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w1342644305.m3u8
@@ -1926,6 +1940,10 @@ https://m.vidio.com/videos/8393411/common_tokenized_playlist.m3u8
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🕌 RELIGI", #INFO
 https://dl.dropboxusercontent.com/scl/fi/kfhn1rdcgeb4cdu9ccvxr/lv_0_20250616200820.mp4?rlkey=b9ile2myatmd420mvwjrk7zpj&st=556756nz
 
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://linktr.ee/og/image/ALBAHJAH.TV.jpg" group-title="🕌 RELIGI", AL BAHJAH TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://202.150.161.117:8000/play/AlBahjahTV
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ytimg.com/vi/uauTuYch84M/maxresdefault.jpg" group-title="🕌 RELIGI", MAKKAH LIVE DNS
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
