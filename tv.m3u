@@ -51,7 +51,9 @@ http://49.0.64.96:8007/HiSports
 #EXTVLCOPT:http-origin=https://www.vidio.com
 https://ratu77.adptv.workers.dev/index.mpd?id=18105&type=dash
 
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vdo.indi1.workers.dev/?id=21337&type=drm&token=avHrOjqvBUON4WZ7rdxUonXbsvXY53WH
+https://vdo.indi1.workers.dev/master.mpd?id=21337&type=dash&token=avHrOjqvBUON4WZ7rdxUonXbsvXY53WH|User-Agent=VidioPlayer/6.31.6
 
 
 ======== LIVE EVENT =========
