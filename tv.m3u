@@ -55,6 +55,22 @@ https://ratu77.adptv.workers.dev/index.mpd?id=18105&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://vdo.indi1.workers.dev/?id=21337&type=drm&token=avHrOjqvBUON4WZ7rdxUonXbsvXY53WH
 https://vdo.indi1.workers.dev/master.mpd?id=21337&type=dash&token=avHrOjqvBUON4WZ7rdxUonXbsvXY53WH|User-Agent=VidioPlayer/6.31.6
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vdo.indi1.workers.dev/?id=9183&type=drm&token=avHrOjqvBUON4WZ7rdxUonXbsvXY53WH
+https://vdo.indi1.workers.dev/master.mpd?id=9183&type=dash&token=avHrOjqvBUON4WZ7rdxUonXbsvXY53WH|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vdo.indi1.workers.dev/?id=19536&type=drm&token=avHrOjqvBUON4WZ7rdxUonXbsvXY53WH
+https://vdo.indi1.workers.dev/master.mpd?id=19536&type=dash&token=avHrOjqvBUON4WZ7rdxUonXbsvXY53WH|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vdo.indi1.workers.dev/?id=19375&type=drm&token=avHrOjqvBUON4WZ7rdxUonXbsvXY53WH
+https://vdo.indi1.workers.dev/master.mpd?id=19375&type=dash&token=avHrOjqvBUON4WZ7rdxUonXbsvXY53WH|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/event/drm.kt?id=19353&type=drm
+https://archertv.my.id/event/index.mpd?id=19353&type=dash|User-Agent=VidioPlayer/6.31.6
+
 
 ======== LIVE EVENT =========
 
