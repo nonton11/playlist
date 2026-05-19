@@ -558,11 +558,14 @@ https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="DAERAH" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://i.ytimg.com/vi/9AgNhsavz24/maxresdefault.jpg", JAGANTARA TV
 http://103.172.71.153:9981/stream/channelid/1697990290?profile=pass
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-title="DAERAH" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://thumbor.prod.vidiocdn.com/GogbTzF_ToPwtx3DeWrCO7HrlUk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/10975/tes-elshinta-tv-eb36eb.jpg", ELSHINTA TV (JAKARTA)
-https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
+#EXTINF:-1 tvg-id="Apple TV.id" group-title="DAERAH" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://thumbor.prod.vidiocdn.com/GogbTzF_ToPwtx3DeWrCO7HrlUk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/10975/tes-elshinta-tv-eb36eb.jpg", ELSHINTA TV DNS (JAKARTA)
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8
 
 #EXTINF:-1 tvg-id="Garuda TV.id" group-title="DAERAH" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://garuda.tv/wp-content/uploads/2023/09/Untitled-design-9.png", GARUDA TV
-https://hgmtv.com:19360/garudatvlivestreaming/576p.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="DAERAH" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://images.indihometv.com/tvposter/jtv.png", JTV INDI (SURABAYA)
 https://cdn10jtedge.indihometv.com/atm/DASH/jtv/manifest.mpd
@@ -587,14 +590,8 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/in
 #EXTINF:-1 tvg-id="TV MU.id" group-title="DAERAH" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://images.indihometv.com/tvposter/tvmu.png", TVMUH
 https://e.siar.us/live/tvmu.m3u8
 
-#EXTINF:-1 tvg-id="TV MU.id" group-title="DAERAH" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://images.indihometv.com/tvposter/tvmu.png", TVMUH INDI
-https://cdn10jtedge.indihometv.com/atm/DASH/muhammadiyahtv/manifest.mpd
-
 #EXTINF:-1 tvg-id="TV 9.id" group-title="DAERAH" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDA6RTFOULjuMVxbFPjyDzi-8vKQ_YBHdxbw&s", TV9
 https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w804001730.m3u8
-
-#EXTINF:-1 tvg-id="TV 9.id" group-title="DAERAH" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDA6RTFOULjuMVxbFPjyDzi-8vKQ_YBHdxbw&s", TV9 INDI
-https://cdn10jtedge.indihometv.com/atm/DASH/tv9/manifest.mpd
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="DAERAH" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://karirpurwokerto.id/wp-content/uploads/2024/05/PT-Banyumas-Citra-Televisi-BMS-TV-01.jpg", BMS TV (BANYUMAS)
 https://5bf7b725107e5.streamlock.net/bmstv/bmstv/chunklist_w710182401.m3u8
@@ -741,7 +738,7 @@ https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
 https://tvku.tv/hlsstream/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/PKTV_New_Logo_2020.png/250px-PKTV_New_Logo_2020.png" group-title="DAERAH", PKTV (KALTIM)
-https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8
+https://streaming.id18.tunnel.my.id/hls/stream.m3u8
 
 
 
