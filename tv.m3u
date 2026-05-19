@@ -321,18 +321,26 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
-#EXTINF:-1 tvg-id="ANTV.id" group-title="🇮🇩 INDONESIA" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://thumbor.prod.vidiocdn.com/kOuIjcBlgd7Dd-WQaDXb_GfUxmU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg", ANTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://streamo.web.id/api/1/post/license/iptvsys/1
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/antv.m3u8
+#EXTINF:-1 tvg-id="ANTV.id" group-title="🇮🇩 INDONESIA" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://thumbor.prod.vidiocdn.com/kOuIjcBlgd7Dd-WQaDXb_GfUxmU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg", ANTV SMR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+https://vidx.semar.my.id/biasa2.mpd?id=782&type=dash
 
 #EXTINF:-1 tvg-id="Indosiar.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://thumbor.prod.vidiocdn.com/e-tiJFPZKI4QjhxAHzp_5foCkGE=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg" group-title="🇮🇩 INDONESIA", INDOSIAR DNS
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
+#EXTINF:-1 tvg-id="Indosiar.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://thumbor.prod.vidiocdn.com/e-tiJFPZKI4QjhxAHzp_5foCkGE=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg" group-title="🇮🇩 INDONESIA", INDOSIAR WF
+https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
+
 #EXTINF:-1 tvg-id="SCTV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://thumbor.prod.vidiocdn.com/iESh25mkdwIlSZLX4WUt256JH3U=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg" group-title="🇮🇩 INDONESIA", SCTV DNS
 #EXTVLCOPT:http-referrer=http://www.dens.tv/ #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8?app_type=web&userid=lite&chname=sctv
+
+#EXTINF:-1 tvg-id="SCTV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://thumbor.prod.vidiocdn.com/iESh25mkdwIlSZLX4WUt256JH3U=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg" group-title="🇮🇩 INDONESIA", SCTV IH
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://indihuy.streamized.net/atm/DASH/sctv/manifest.mpd
 
 #EXTINF:-1 tvg-id="MDTV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://thumbor.prod.vidiocdn.com/vkORCwK34mMDw2PbRGLcVLkux10=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg" group-title="🇮🇩 INDONESIA", MDTV DNS
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -357,10 +365,12 @@ https://flv.intechmedia.net/live/ch107.m3u8
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
 
 #EXTINF:-1 tvg-id="CNN Indonesia.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🇮🇩 INDONESIA" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/Logo-CNN-Indonesia-Peta-Indonesia.jpg?v=8.3.1", CNN INDONESIA
-http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/165062
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w528835010_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="CNBC - [Channel 337].id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://awsimages.detik.net.id/visual/2018/02/08/707668e4-5770-4679-9b4b-9ff343b68eb6_169.jpeg?w=650" group-title="🇮🇩 INDONESIA",CNBC INDONESIA
-http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/162137
+#EXTINF:-1 tvg-id="CNBC - [Channel 337].id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://awsimages.detik.net.id/visual/2018/02/08/707668e4-5770-4679-9b4b-9ff343b68eb6_169.jpeg?w=650" group-title="🇮🇩 INDONESIA", CNBC INDONESIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w481242722_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="TVRI - [Channel 118].id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://thumbor.prod.vidiocdn.com/ITgomqe4r80G_YlUJO-ZLBdgztM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="🇮🇩 INDONESIA", TVRI
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -378,12 +388,6 @@ http://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-
-#EXTINF:-1 tvg-id="Moji.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://thumbor.prod.vidiocdn.com/bwUEILb_i5ngA1tmC0WaTOP9gCc=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg" group-title="🇮🇩 INDONESIA", MOJI TV VD
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-origin=https://www.vidio.com
-https://ratu77.adptv.workers.dev/index.mpd?id=206&type=dash
 
 #EXTINF:-1 tvg-id="TVOne.id" group-title="🇮🇩 INDONESIA" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://thumbor.prod.vidiocdn.com/oxJn_nsXnzIcI2lFivvZbbm9PHQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg", TVONE DNS
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
