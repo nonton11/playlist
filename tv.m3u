@@ -70,10 +70,20 @@ https://dl.dropboxusercontent.com/scl/fi/fwh3ea7esxf14gkmmrcwu/lv_0_202507231830
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="EVENT BOLA" tvg-logo="https://thumbor.prod.vidiocdn.com/rlRphbpziaBJY2vRJ7o2Y6ualy0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080192/14228d.jpg", 15:30 Arema FC vs PSIM Jogja 22/05 - BRI Super League
 https://archertv.my.id/event/index.m3u8?id=19354&type=hls|User-Agent=VidioPlayer/6.31.6
 
+#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://live3.procdnlive.com/livecdn/channel16.flv?auth_key=3000001779434875-0-0-7c25066428120f4af0eec689b7077d8c
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/event/drm.kt?id=19353&type=drm
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="EVENT BOLA" tvg-logo="https://thumbor.prod.vidiocdn.com/jousOoPOTrUVV4ezUH4-zQ-hWJ8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080197/55ee8c.jpg", 16:00 PERSITA vs PERSIS 23/95 - BRI Super League
 https://archertv.my.id/event/index.mpd?id=19353&type=dash|User-Agent=VidioPlayer/6.31.6
+
+#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://live3.procdnlive.com/livecdn/channel2.flv?auth_key=3000001779435004-0-0-e9fc120296ad643772019e5563433dd1
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/event/drm.kt?id=19385&type=drm
