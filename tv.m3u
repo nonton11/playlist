@@ -75,15 +75,31 @@ https://archertv.my.id/event/index.m3u8?id=19354&type=hls|User-Agent=VidioPlayer
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://live3.procdnlive.com/livecdn/channel16.flv?auth_key=3000001779434875-0-0-7c25066428120f4af0eec689b7077d8c
 
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/event/drm.kt?id=19355&type=drm
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png"
+group-title="EVENT BOLA" tvg-logo="https://thumbor.prod.vidiocdn.com/uJP6a2goHEYkO4RidbOXH-10GTA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080584/e152f2.jpg", Jelang Kick Off - Dewa United Banten FC vs Bali United FC - BRI Super League
+https://archertv.my.id/event/index.mpd?id=19355&type=dash|User-Agent=VidioPlayer/6.31.6
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/event/drm.kt?id=19353&type=drm
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="EVENT BOLA" tvg-logo="https://thumbor.prod.vidiocdn.com/jousOoPOTrUVV4ezUH4-zQ-hWJ8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080197/55ee8c.jpg", 16:00 PERSITA vs PERSIS 23/95 - BRI Super League
-https://archertv.my.id/event/index.mpd?id=19353&type=dash|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/event/drm.kt?id=19354&type=drm
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png"
+group-title="EVENT BOLA" tvg-logo="https://thumbor.prod.vidiocdn.com/dJzKiZrngggV5_L3F9k85mKZEm4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5084099/f89371.jpg", Dewa United Banten FC vs Bali United FC - BRI Super League
+https://archertv.my.id/event/index.m3u8?id=19354&type=hls|User-Agent=VidioPlayer/6.31.6
 
 #EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://live3.procdnlive.com/livecdn/channel2.flv?auth_key=3000001779435004-0-0-e9fc120296ad643772019e5563433dd1
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/event/drm.kt?id=19353&type=drm
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="EVENT BOLA" tvg-logo="https://thumbor.prod.vidiocdn.com/jousOoPOTrUVV4ezUH4-zQ-hWJ8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080197/55ee8c.jpg", 16:00 PERSITA vs PERSIS 23/95 - BRI Super League
+https://archertv.my.id/event/index.mpd?id=19353&type=dash|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/event/drm.kt?id=19353&type=drm
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="EVENT BOLA" tvg-logo="https://thumbor.prod.vidiocdn.com/ljKXj4kBJBDWOLr9xNB0EdJIt3o=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19353/bri-super-league-a1aa24.jpg", 16:00 PERSITA vs PERSIS 23/05 - BRI Super League
+https://archertv.my.id/event/index.mpd?id=19353&type=dash|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/event/drm.kt?id=19385&type=drm
@@ -96,16 +112,18 @@ https://archertv.my.id/event/index.mpd?id=19385&type=dash|User-Agent=VidioPlayer
 https://archertv.my.id/event/index.mpd?id=19384&type=dash|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/event/drm.kt?id=19353&type=drm
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="EVENT BOLA" tvg-logo="https://thumbor.prod.vidiocdn.com/ljKXj4kBJBDWOLr9xNB0EdJIt3o=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19353/bri-super-league-a1aa24.jpg", 16:00 PERSITA vs PERSIS 23/05 - BRI Super League
-https://archertv.my.id/event/index.mpd?id=19353&type=dash|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/event/drm.kt?id=19354&type=drm
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="EVENT BOLA" tvg-logo="https://thumbor.prod.vidiocdn.com/gsZ0oWccT0C4PLuZkRQkcezUqwY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080193/a92f43.jpg", 16:00 PERSIB vs PERSIJAP 23/05 - BRI Super League
 https://archertv.my.id/event/index.m3u8?id=19354&type=hls|User-Agent=VidioPlayer/6.31.6
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/event/drm.kt?id=19386&type=drm
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="EVENT BOLA" tvg-logo="https://thumbor.prod.vidiocdn.com/0MoxQZAXPCNelf4EvNl2MIfPuIo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080586/6f405e.jpg", 16:00 Bhayangkara Presisi Lampung FC vs PSBS Biak 23/05 - BRI Super League
+https://archertv.my.id/event/index.mpd?id=19386&type=dash|User-Agent=VidioPlayer/6.31.6
 
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/event/drm.kt?id=19383&type=drm
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="EVENT BOLA" tvg-logo="https://thumbor.prod.vidiocdn.com/RWgeKe6FbmeJJDW224Qi0utGRvw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5084145/f6b43f.jpg", 16:00 PERSIJA vs Semen Padang FC 23/05 - BRI Super League
+https://archertv.my.id/event/index.mpd?id=19383&type=dash|User-Agent=VidioPlayer/6.31.6
 
 
 
