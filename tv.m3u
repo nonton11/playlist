@@ -645,11 +645,8 @@ https://tatv.siar.us/tatv/live.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="DAERAH" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://i.ytimg.com/vi/RazwtSr03Eg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBvzDDhOjkod0OyN-4G7k38WKTgcg", RCTV CIREBON
 https://v10.siar.us/rctv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Jawa Pos TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Nnim2GgJQEwK77r2ab6UAeAR08T-yzuDgQ&s" group-title="DAERAH", JAWA POS TV
-https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Jawa Pos TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Nnim2GgJQEwK77r2ab6UAeAR08T-yzuDgQ&s" group-title="DAERAH", JAWA POS TV INDI
-https://cdn10jtedge.indihometv.com/atm/DASH/jawapos/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/jawapos/manifest.mpd
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://i.ytimg.com/vi/PtROdSVrG0Q/maxresdefault.jpg" group-title="DAERAH", BANJAR TV
 https://banjartv.siar.us/banjartv/live/playlist.m3u8
@@ -1759,6 +1756,9 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/index.mpd
 
+#EXTINF:-1 tvg-id="Apple TV.id" tvg-logo="https://i.pinimg.com/736x/95/b0/6f/95b06fe0c14b1ea9cc5f1a1a57f41561--videos-gold.jpg" group-title="📺 MOVIES", AXN IH
+https://indihuy.streamized.net/atm/DASH/inews/manifest.mpd
+
 #EXTINF:-1 tvg-id="Apple TV.id" tvg-logo="https://i.pinimg.com/736x/95/b0/6f/95b06fe0c14b1ea9cc5f1a1a57f41561--videos-gold.jpg" group-title="📺 MOVIES", AXN v+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1994,9 +1994,8 @@ http://202.169.224.202:8800/udp/239.9.1.12:1234
 https://dl.dropboxusercontent.com/scl/fi/kfhn1rdcgeb4cdu9ccvxr/lv_0_20250616200820.mp4?rlkey=b9ile2myatmd420mvwjrk7zpj&st=556756nz
 
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://deadline.com/wp-content/uploads/2025/09/hbo-logo.jpg?w=681&h=383&crop=1" group-title="📺 HBO", HBO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/306484
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://deadline.com/wp-content/uploads/2025/09/hbo-logo.jpg?w=681&h=383&crop=1" group-title="📺 HBO", HBO IH
+https://indihuy.streamized.net/atm/DASH/hbo/manifest.mpd
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnnv1H8AHrcvY_GL-ypdUM57RuiZCWVTKHlw&s" group-title="📺 HBO", HBO HITS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
