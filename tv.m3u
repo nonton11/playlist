@@ -570,19 +570,16 @@ https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/in
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
 
 #EXTINF:-1 tvg-id="Dunia Lain.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9MBz85NL86ozxKdu-9gMsDb1c6myYtChy-g&s" group-title="DAERAH", Dunia Lain
-http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/298524
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-title="DAERAH" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIGFVOhjdQWs_aQDjJKSqD0euYXf1aOsMt4A&s", JURNAL TV
-https://v3.siar.us/humabetangtv/live/playlist.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6JuubV7C1WNgKYdp07g_LKxiJdpe8C855lQ&s" group-title="DAERAH", OXYGEN TV
 https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-title="DAERAH" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStAQ-3ssg5WtwNaaxkWlOSbeMxAH3dnPLkkg&s", JOGJA TV
-http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-title="DAERAH" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://i.ytimg.com/vi/9AgNhsavz24/maxresdefault.jpg", JAGANTARA TV
-http://103.172.71.153:9981/stream/channelid/1697990290?profile=pass
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="DAERAH" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://thumbor.prod.vidiocdn.com/GogbTzF_ToPwtx3DeWrCO7HrlUk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/10975/tes-elshinta-tv-eb36eb.jpg", ELSHINTA TV DNS (JAKARTA)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -593,8 +590,10 @@ http://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-title="DAERAH" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://images.indihometv.com/tvposter/jtv.png", JTV INDI (SURABAYA)
-https://cdn10jtedge.indihometv.com/atm/DASH/jtv/manifest.mpd
+#EXTINF:-1 tvg-id="Apple TV.id" group-title="DAERAH" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://images.indihometv.com/tvposter/jtv.png", JTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96528db3a2fc4bf3a415f2c5c274b79c:3d77cf2d7ef8385d4c5fc876b742610a
+https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mediampd/JTV.mpd
 
 #EXTINF:-1 tvg-id="Bandung TV.id" group-title="DAERAH" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://i.ytimg.com/vi/4jMq-ebRItY/maxresdefault.jpg", BANDUNG TV
 http://202.150.153.254:443/bandungtvWEBSITE.m3u8
@@ -622,6 +621,9 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w804001730.m3u8
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="DAERAH" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://karirpurwokerto.id/wp-content/uploads/2024/05/PT-Banyumas-Citra-Televisi-BMS-TV-01.jpg", BMS TV (BANYUMAS)
 https://5bf7b725107e5.streamlock.net/bmstv/bmstv/chunklist_w710182401.m3u8
 
+#EXTINF:-1 tvg-id="Apple TV.id" group-title="DAERAH" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://i.ytimg.com/vi/-9IMPGqVNJk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAL77kcmnCvDRZLurlt2a3lI6aecQ", ABTV BLITAR
+https://5bf7b725107e5.streamlock.net/abtv/abtv/chunklist_w1913721130.m3u8
+
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="DAERAH" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://solotrust.com/data/foto-berita/86734-30279-18478-15162-28275-TATV.jpg", TATV (SOLO)
 https://tatv.siar.us/tatv/live.sdp/playlist.m3u8
 
@@ -634,32 +636,28 @@ https://indihuy.streamized.net/atm/DASH/jawapos/manifest.mpd
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://i.ytimg.com/vi/PtROdSVrG0Q/maxresdefault.jpg" group-title="DAERAH", BANJAR TV
 https://banjartv.siar.us/banjartv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-title="DAERAH" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://i.ytimg.com/vi/RjB_6Ps3BKc/maxresdefault.jpg", dTVi
-https://e.siar.us/live/dtvi.m3u8
-
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="DAERAH" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHbxj0uzRqcndTviL-h_ADldRueK9ImM3-xQ&s", dmtv
 https://e.siar.us/live/dmtv.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="DAERAH" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://i.ytimg.com/vi/eBwXvGGzHpc/maxresdefault.jpg", Efarina TV (SIMALUNGUN)
-https://live.efarinatv.net/hls/stream123/index.m3u8
+https://live.efarinatv.com/hls/bgtaufikganteng.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="DAERAH" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://i.ytimg.com/vi/epDCZ7pvdCg/maxresdefault.jpg", STARA TV
 https://stream.staratv.id/hls/0/stream.m3u8
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-title="DAERAH" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-ULKrY5CtAq5R0j3sfPCBg6AaAtDKgV4Fzg&s", KALTARA TV
+#EXTINF:-1 tvg-id="Apple TV.id" group-title="DAERAH" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-ULKrY5CtAq5R0j3sfPCBg6AaAtDKgV4Fzg&s", K TV
 https://5bf7b725107e5.streamlock.net/kaltaratv/kaltaratv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="DAERAH" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://yt3.googleusercontent.com/SXO69PP3UCh2OmHydnT7hgEhSd0PuwhBBRdk59462iK2iichOrFErh170Yf70VVg2uFWgDiNQw=s900-c-k-c0x00ffffff-no-rj", SURABAYA TV
 https://e.siar.us/live/surabayatv.m3u8
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-title="DAERAH" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://event.inspira.tv/wp-content/uploads/2025/02/Logo-Inspira-ICH-01.png", INSPIRA TV (BANDUNG)
-https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="DAERAH" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Cakra-semarang-tv.png/revision/latest/scale-to-width-down/250?cb=20201011065922", SEMARANG TV
 https://tvku.tv/hlsstream/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="DAERAH" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/IDTV.svg/1200px-IDTV.svg.png", IDTV
-https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/hvideo-640x360.m3u8
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="DAERAH" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/86/DhohoTV.png", DHOHO TV (KEDIRI)
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
@@ -689,19 +687,13 @@ https://tvstreamcast.com/indonesiana.m3u8
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="DAERAH" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwmsb4YOQgSJY1E7pIWyoiaBfMWsjcaXeQBQ&s", SANGAJI TV
-https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv_mid.m3u8
+https://cdn.adyadigitalteknologi.com:8090/vod/relay.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="DAERAH" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f1/Bungo_TV.png", BUNGO TV (JAMBI)
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/chunklist_w722532023.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="DAERAH" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://img.mbizmarket.co.id/products/thumbs/343x343/2022/08/26/05ec6ce3f5dd7ac9ce683463c276a672.jpg", MADU TV (TULUNGAGUNG)
 https://re1.siar.us/madutv/hd720/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" group-title="DAERAH" tvg-logo="https://i.ytimg.com/vi/2OEh74F-VIk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB_9eBs10_6MCM2qIrV7AQ5Ln_wGg", WESAL TV
-https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-title="DAERAH" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://www.pontv.id/wp-content/uploads/2018/07/livestreaming.jpg", PON TV (PONTIANAK)
-https://63b2dc7196c38.streamlock.net:1937/PONTV/_definst_/myStream/chunklist_w247695662.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="DAERAH" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/148286.v2.png", FICOM CHANNEL
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -711,7 +703,7 @@ https://v3.siar.us/ficomchannel/live/playlist.m3u8
 https://5bf7b725107e5.streamlock.net/imtv/imtv/chunklist_w422579395.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJTp5MNa6whRG_fADr_Gjeh4yDE-OpDtNHBQ&s" group-title="DAERAH", BANTEN TV
-https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8?checkedby:iptvcat.com
+https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DAAI TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnQpZys0vShZK9bXixmdoMVCM0QO4bqAlGBA&s" group-title="DAERAH", JITV
 https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w1342644305.m3u8
@@ -733,17 +725,8 @@ https://ssfm.siar.us/ssfm/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://i.ytimg.com/vi/79dgJFFe9GI/maxresdefault.jpg" group-title="DAERAH", SAMPIT TV (SAMPIT) 
 https://e.siar.us/live/sampit-tv.m3u8
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://asset.tribunnews.com/ZUdP6xilzCPpIQbbWeEopjO5HTI=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/makassar/foto/bank/originals/celebes-tv-logo_20150617_155627.jpg" group-title="DAERAH", CELEBES TV (MAKASSAR)
-https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8
-
-#EXTINF:-1 tvg-id="MUI TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0d/TV_MUI.png" group-title="DAERAH", MUI TV
-https://mui.siar.us/mui/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/21/KTV_28UHF.png" group-title="DAERAH", KTV (JAKARTA)
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/21/KTV_28UHF.png" group-title="DAERAH", KALTARA TV
 https://5bf7b725107e5.streamlock.net/kaltaratv/kaltaratv/chunklist_w632217650.m3u8
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLOBQTqUnY9BqxwvFKvwuDDvVvfVZOkDiOXg&s" group-title="DAERAH", MGSTV (SUKABUMI)
-https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://i.ytimg.com/vi/tvT2lea2qnA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFogYihlMA8=&rs=AOn4CLCl_KXnEmd_8WG3uH2XLGDbYyXHQQ" group-title="DAERAH", BRTV (BEKASI)
 https://5bf7b725107e5.streamlock.net/brtv/brtv/chunklist_w1484101028.m3u8
@@ -754,14 +737,32 @@ https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/chunklist_w806925474.
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://media.licdn.com/dms/image/v2/C561BAQGOnIN_fYUMfg/company-background_10000/company-background_10000/0/1639496853603/ugtv_cover?e=2147483647&v=beta&t=3jn5psRKJioPcFh9LwQKxn1mg_ibHzFQt47CdzX3kiI" group-title="DAERAH", UGTV (DEPOK) 
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/42/Radartvtasik.jpg/250px-Radartvtasik.jpg" group-title="DAERAH", RADAR TV TASIKMALAYA
-https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://storage.tvku.tv/tvkuweb/v2/assets/ourexpertise/2022-02-28-22-29-44.png" group-title="DAERAH", TVKU (SEMARANG)
 https://tvku.tv/hlsstream/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/PKTV_New_Logo_2020.png/250px-PKTV_New_Logo_2020.png" group-title="DAERAH", PKTV (KALTIM)
 https://streaming.id18.tunnel.my.id/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/42/Radartvtasik.jpg/250px-Radartvtasik.jpg" group-title="DAERAH", RADAR TV TASIKMALAYA
+https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLOBQTqUnY9BqxwvFKvwuDDvVvfVZOkDiOXg&s" group-title="DAERAH", MGSTV (SUKABUMI)
+https://mgstv.siar.us/live/mgstv.m3u8
+
+#EXTINF:-1 tvg-id="MUI TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0d/TV_MUI.png" group-title="DAERAH", MUI TV
+https://mui.siar.us/mui/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-title="DAERAH" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://www.pontv.id/wp-content/uploads/2018/07/livestreaming.jpg", PON TV (PONTIANAK)
+https://63b2dc7196c38.streamlock.net:1937/PONTV/_definst_/myStream/chunklist_w247695662.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" group-title="DAERAH" tvg-logo="https://i.ytimg.com/vi/2OEh74F-VIk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB_9eBs10_6MCM2qIrV7AQ5Ln_wGg", WESAL TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-title="DAERAH" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://event.inspira.tv/wp-content/uploads/2025/02/Logo-Inspira-ICH-01.png", INSPIRA TV (BANDUNG)
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-title="DAERAH" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://i.ytimg.com/vi/RjB_6Ps3BKc/maxresdefault.jpg", dTVi
+https://e.siar.us/live/dtvi.m3u8
 
 
 
