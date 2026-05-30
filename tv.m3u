@@ -45,6 +45,13 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🛑 APPLE TV", ADU AYAM
 http://49.0.64.96:8007/HiSports
 
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTdlOGEyYmMtN2I2OC00ZWJkLWE1ZTQtMjQwYmQ1NGNlODgzXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg" group-title="🛑 APPLE TV", Agak Laen: Menyala Pantiku!
+https://video.4meplayer.com/hls/__iqHKbY3lWIU5yXgvWmVw/luy/ojqwdwsd/3izhiv/tt/master.m3u8?v=1766826492
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2MyY2ViY2ItMWI2NS00OTU3LTkxNGItNzQ1ZWI1YjE2NjcyXkEyXkFqcGc@._V1_QL75_UY281_CR11,0,190,281_.jpg" group-title="🛑 APPLE TV", Comic 8 Revolution: Santet K4bin3t
+https://playerngefilm21.rpmlive.online/hls/AHBVeRpDbfqtRxGbmn8dRQ/gee/zbxp1use/6jkrln/tt/master.m3u8?v=1766826492
+
+
 
 
 
