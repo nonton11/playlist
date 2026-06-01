@@ -51,7 +51,7 @@ https://video.4meplayer.com/hls/__iqHKbY3lWIU5yXgvWmVw/luy/ojqwdwsd/3izhiv/tt/ma
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2MyY2ViY2ItMWI2NS00OTU3LTkxNGItNzQ1ZWI1YjE2NjcyXkEyXkFqcGc@._V1_QL75_UY281_CR11,0,190,281_.jpg" group-title="🛑 APPLE TV", Comic 8 Revolution: Santet K4bin3t
 https://playerngefilm21.rpmlive.online/hls/AHBVeRpDbfqtRxGbmn8dRQ/gee/zbxp1use/6jkrln/tt/master.m3u8?v=1766826492
 
-
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=indosiar
 
 
 
@@ -271,8 +271,17 @@ http://202.169.224.202:8800/udp/239.9.1.32:1234
 
 #EXTINF:-1 tvg-id="Indosiar.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/ycrncrx1/BRI.png" group-title="⭐ LIVE EVENT", BSL INDOSIAR 1
 http://opplextv.cyou:8080/live/nasir6160/nasir/350972.ts
-#EXTINF:-1 tvg-id="Indosiar.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/ycrncrx1/BRI.png" group-title="⭐ LIVE EVENT", BSL INDOSIAR 1
+
+#EXTINF:-1 tvg-id="Indosiar.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/ycrncrx1/BRI.png" group-title="⭐ LIVE EVENT", BSL INDOSIAR 2
 http://103.148.44.38:8000/play/a05c/index.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/8CmLbY0/EPL.png" group-title="⭐ LIVE EVENT", PREMIER LEAGUE
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=9353&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=9353&type=dash
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/8CmLbY0/EPL.png" group-title="⭐ LIVE EVENT", EPL FUBO 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -446,8 +455,16 @@ https://vidx.semar.my.id/biasa2.mpd?id=782&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
-#EXTINF:-1 tvg-id="Indosiar.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://thumbor.prod.vidiocdn.com/e-tiJFPZKI4QjhxAHzp_5foCkGE=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg" group-title="🇮🇩 INDONESIA", INDOSIAR DNS
-http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+#EXTINF:-1 tvg-id="Indosiar.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://thumbor.prod.vidiocdn.com/e-tiJFPZKI4QjhxAHzp_5foCkGE=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg" group-title="🇮🇩 INDONESIA", INDOSIAR TRV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
+
+#EXTINF:-1 tvg-id="SCTV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://thumbor.prod.vidiocdn.com/iESh25mkdwIlSZLX4WUt256JH3U=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg" group-title="🇮🇩 INDONESIA", SCTV V+
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=sctv
 
 #EXTINF:-1 tvg-id="SCTV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://thumbor.prod.vidiocdn.com/iESh25mkdwIlSZLX4WUt256JH3U=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg" group-title="🇮🇩 INDONESIA", SCTV IH
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -1507,13 +1524,47 @@ https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Champions TV 1.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI28I7lQkPTh6ciD5Nt0kaYz91KpC-ZEtVog&s" group-title="🎖️ Sports", Champion 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=6685&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=6685&type=dash
 http://202.169.224.202:8800/udp/239.9.1.9:1234
 
-#EXTINF:-1 tvg-id="Champions TV 2.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://thumbor.prod.vidiocdn.com/BeoUinc3Hr35XilZAlCjOIoLu8w=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg" group-title="🎖️ Sports", Champion 2
+#EXTINF:-1 tvg-id="Champions TV 2.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://thumbor.prod.vidiocdn.com/BeoUinc3Hr35XilZAlCjOIoLu8w=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg" group-title="🎖️ Sports", Champions 2
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=6686&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=6686&type=dash
 http://202.169.224.202:8800/udp/239.9.1.10:1234
 
-#EXTINF:-1 tvg-id="Champions TV 3.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://thumbor.prod.vidiocdn.com/kxrTEWhwu1SLR7pCNvqZ_y3CbYk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg" group-title="🎖️ Sports", Champion 3
+#EXTINF:-1 tvg-id="Champions TV 3.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://thumbor.prod.vidiocdn.com/kxrTEWhwu1SLR7pCNvqZ_y3CbYk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg" group-title="🎖️ Sports", Champions 3
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=6786&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=6786&type=dash
 http://202.169.224.202:8800/udp/239.9.1.11:1234
+
+#EXTINF:-1 tvg-id="Champions TV 3.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeHngTajQkkI0kFZE6L5EtuneR6sCSI3FYew&s" group-title="🎖️ Sports", Champions 5
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=9182&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=9182&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 3.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://thumbor.prod.vidiocdn.com/pwYcmymNIlARCWgBZqDSNa_d6hY=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg" group-title="🎖️ Sports", Champions 6
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=9183&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=9183&type=dash
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🎖️ Sports" tvg-logo="https://dnl.tntsports.co.uk/sd/img/og/tntsports.jpg", TNT Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -1615,9 +1666,17 @@ http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/jkcljgq
 https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://evolve-mma.com/wp-content/uploads/2022/08/what-is-mixed-martial-arts.jpeg" group-title="🎖️ Sports",MMA 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.0.2171.93 Safari/537.36
+https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://evolve-mma.com/wp-content/uploads/2022/08/what-is-mixed-martial-arts.jpeg" group-title="🎖️ Sports",MMA 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a49085f8da5e65af1efff0edac830b1f:4659bc58a85c062e3fe0c039a446fe47
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.0.2171.93 Safari/537.36
+https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8mxwjnh2te/out/v1/356704796c0c4bed81f67cd3518d0c8a/cenc.mpd
 https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Prima_sport.png" group-title="🎖️ Sports", Prima Sport 1
@@ -2274,6 +2333,14 @@ http://202.150.161.117:8000/play/AlBahjahTV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8?app_type=web&userid=lite&chname=Quran_TV
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9ROxdqbE80tWNGCron2ZzwZ78kDfJ5GAASg&s" group-title="🕌 RELIGI", KHAZANAH TRV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9ROxdqbE80tWNGCron2ZzwZ78kDfJ5GAASg&s" group-title="🕌 RELIGI", NABAWI TV
 http://194.42.205.99:8070/F36591/3f1a2b5c/306469
@@ -2995,6 +3062,113 @@ https://dm21.embed4me.vip/hls/D1JF21VHuZM3m5C6SiEPIA/miy/el9qhpk3/ijwvba/tt/mast
 https://playerngefilm21.rpmlive.online/hls/9oBzJcGWtKggGH1SMt_W4Q/5c/yg6kbmw6/ua9xef/tt/master.m3u8?v=1766826492
 https://dm21.embed4me.vip/hls/xPdE3OT9uoQpcB4ssxJvaA/rqz/fmg9yocq/jyj3bi/tt/master.m3u8?v=1766826492
 
+
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="Animation", #INFO
+https://dl.dropboxusercontent.com/scl/fi/kfhn1rdcgeb4cdu9ccvxr/lv_0_20250616200820.mp4?rlkey=b9ile2myatmd420mvwjrk7zpj&st=556756nz
+
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/394/288394-BACKGROUND-m.jpg" group-title="Animation", Crayon Shin-chan The Movie: Battle of Supernatural Powers -Flying Sushi-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df05c7ffed5a4df1b18121c88dbd4e92:1169272c0fdf482a78504d6982e73375
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d2tolhxlph2dpt.cloudfront.net/out/v1/066cc3bfcd22433f9244828dc81fafc2/7b05bbbb935a4a58a9eb9efab9393708/42d9b0ef42fb4cd2926040f58263ed39/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/567/679567-BACKGROUND-m.jpg" group-title="Animation", Madagascar
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6fee7f0e6bf74870876c81dbcedd643b:1a71df940772b8b8e220f0c14c74894c
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d2tolhxlph2dpt.cloudfront.net/out/v1/4f42a5d9840d499d9ca130ad71cbd276/7b05bbbb935a4a58a9eb9efab9393708/42d9b0ef42fb4cd2926040f58263ed39/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/572/248572-BACKGROUND-m.jpg" group-title="Animation", The Spongebob Squarepants Movie
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed1fcfc1cd304d3bb88073b8b87213a2:e497dced5dd5c2904d832b53e0de2536
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d2tolhxlph2dpt.cloudfront.net/out/v1/c9fb5f5167e44548adb1f92ad17abf46/7b05bbbb935a4a58a9eb9efab9393708/42d9b0ef42fb4cd2926040f58263ed39/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/112/352112-BACKGROUND-m.jpg" group-title="Animation", Shrek
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=41025d28bb2b45f0bc3c22cc1e35790a:e0417542b417b0b4a25a95fa2d61b8e8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d2tolhxlph2dpt.cloudfront.net/out/v1/02f67235c733499b947a8586b93757fb/7b05bbbb935a4a58a9eb9efab9393708/42d9b0ef42fb4cd2926040f58263ed39/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/112/352112-BACKGROUND-m.jpg" group-title="Animation", Shrek 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21fb01816c7b48cd83e84063f2f4d230:21f7b202e62808eb53de68b4b6c1cab4
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d2tolhxlph2dpt.cloudfront.net/out/v1/963819bbcd744b6d8e23fd976b5a2fa5/7b05bbbb935a4a58a9eb9efab9393708/42d9b0ef42fb4cd2926040f58263ed39/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/365/661365-BACKGROUND-m.jpg" group-title="Animation", Puss in Boots
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=621df173da944650acfbc2c49ded26a8:32598984cc9f5b826e743dd7b067c5fb
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d2tolhxlph2dpt.cloudfront.net/out/v1/07d03c5cb0aa422a983e4113c6e27a48/7b05bbbb935a4a58a9eb9efab9393708/42d9b0ef42fb4cd2926040f58263ed39/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/755/616755-BACKGROUND-m.jpg" group-title="Animation", Kung Fu Panda
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f226461bf87b4457bb56b9b75893da26:f33eaa0764051d21b8d3a9bb376d1d97
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d2tolhxlph2dpt.cloudfront.net/out/v1/c72136909bb44f7ab203c4b37253a88c/7b05bbbb935a4a58a9eb9efab9393708/42d9b0ef42fb4cd2926040f58263ed39/index.mpd
+
+
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="Comedy", #INFO
+https://dl.dropboxusercontent.com/scl/fi/kfhn1rdcgeb4cdu9ccvxr/lv_0_20250616200820.mp4?rlkey=b9ile2myatmd420mvwjrk7zpj&st=556756nz
+
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/718/187718-BACKGROUND-m.jpg" group-title="Comedy", Yowis Ben
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d5b567b9179441d9c14762ab40b805b:ecee7dc7c7f85b87a8fd902f128ca219
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d2tolhxlph2dpt.cloudfront.net/out/v1/4c34abee730d4691bff245efadd5f519/7b05bbbb935a4a58a9eb9efab9393708/42d9b0ef42fb4cd2926040f58263ed39/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/722/199722-BACKGROUND-m.jpg" group-title="Comedy", Cek Toko Sebelah
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b4767b1614e48298f72c25872d411fe:eebd6b4f98e7f12434c949dfd7bb3f9f
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d2tolhxlph2dpt.cloudfront.net/out/v1/0cbf4cb93156406da0af118d9e169fc4/7b05bbbb935a4a58a9eb9efab9393708/42d9b0ef42fb4cd2926040f58263ed39/index.mpd
+
+#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_yd4udmqe/carousel_hdpi.png" group-title="Comedy", Comic 8
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://maxstream.tv
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://maxstream.tv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c0f6aa0f3ed4d3db6185600ed3a4728:9aea5d55100000000000000000000000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://cdn10jtedge.indihometv.com/vod/vmp1/75ce-fa06/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_nuyh8gch/carousel_hdpi.png" group-title="Comedy", Comic 8: Casino Kings (Part 1)
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://maxstream.tv
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://maxstream.tv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bb9cfdd22d464feb99d19a756a8a714f:04f7c7cbf00000000000000000000000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://cdn10jtedge.indihometv.com/vod/vmp1/7515-e838/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_lrwa948r/carousel_hdpi.png" group-title="Comedy", Comic 8: Casino Kings (Part 2)
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://maxstream.tv
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://maxstream.tv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa360265ae4d42529472f8a6438d9e1f:c6a81d64000000000000000000000000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://cdn10jtedge.indihometv.com/vod/vmp1/f764-dae4/manifest.mpd
 
 
 
