@@ -98,8 +98,17 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it
 #EXTINF:-1 tvg-id="Moji.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://kitagaruda.id/_next/image?url=https%3A%2F%2Fkitagaruda.sgp1.cdn.digitaloceanspaces.com%2F01KR6JWD03WWVFFFH6Y8N0KBYB.png&w=2048&q=75" group-title="EVENT 02/06/26", 16:00 Thailand U19 vs Brunei U19
 https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5TJFoNoqsT27VF.m3u8
 
+#EXTINF:-1 tvg-id="Moji.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://thumb.viva.id/vivagadget/1265x711/2024/10/08/6704d9a8f1f2c-live-streaming-brunei-darussalam-vs-timor-leste-kualifikasi-piala-aff-2024-kick-off-1930-wib_.jpg" group-title="EVENT 02/06/26", 19:15 Brunei vs Timor-Leste
+#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live3.procdnlive.com/livecdn/channel5.flv?auth_key=3000001780397721-0-0-55e5ddd8e3d77fbcd8501f1a279f70d5
+
 #EXTINF:-1 tvg-id="Moji.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://kitagaruda.id/_next/image?url=https%3A%2F%2Fkitagaruda.sgp1.cdn.digitaloceanspaces.com%2F01KR6JWD03WWVFFFH6Y8N0KBYB.png&w=2048&q=75" group-title="EVENT 02/06/26", 20:00 Malaysia U19 vs Singapore U19
-http://202.169.224.202:8800/udp/239.9.1.32:1234
+#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live3.procdnlive.com/livecdn/channel15.flv?auth_key=3000001780397620-0-0-193e326b500345272d35ba7f6917215c
 
 #EXTINF:-1 tvg-id="Soccer Channel.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6okzMc4QoRoGa4xcqIsQTAJFnPaR5pCAaVw&s" group-title="EVENT 02/06/26", 23:00 Croatia vs Belgium
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -124,6 +133,12 @@ https://dl.dropboxusercontent.com/scl/fi/fwh3ea7esxf14gkmmrcwu/lv_0_202507231830
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6okzMc4QoRoGa4xcqIsQTAJFnPaR5pCAaVw&s" group-title="EVENT 03/06/26", 00:00 Morocco vs Madagascar
+#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live3.procdnlive.com/livecdn/channel14.flv?auth_key=3000001780397872-0-0-c22348a6fae9d86306148226ac048eec
+
 #EXTINF:-1 tvg-id="Sportstars 2.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6okzMc4QoRoGa4xcqIsQTAJFnPaR5pCAaVw&s" group-title="EVENT 03/06/26", 01:45 Wales vs Ghana
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
@@ -138,6 +153,12 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6okzMc4QoRoGa4xcqIsQTAJFnPaR5pCAaVw&s" group-title="EVENT 03/06/26", 07:00 Haiti vs New Zealand
+#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live3.procdnlive.com/livecdn/channel18.flv?auth_key=3000001780397973-0-0-36bf29e6d35a955223097e3e455d642f
 
 #EXTINF:-1 tvg-id="Indosiar.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6okzMc4QoRoGa4xcqIsQTAJFnPaR5pCAaVw&s" group-title="EVENT 03/06/26", 19:00 Indonesia W vs Singapore W
 http://opplextv.cyou:8080/live/nasir6160/nasir/350972.ts
