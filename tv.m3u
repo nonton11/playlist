@@ -139,10 +139,74 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
+#EXTINF:-1 tvg-id="Indosiar.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6okzMc4QoRoGa4xcqIsQTAJFnPaR5pCAaVw&s" group-title="EVENT 03/06/26", 19:00 Indonesia W vs Singapore W
+http://opplextv.cyou:8080/live/nasir6160/nasir/350972.ts
+
 #EXTINF:-1 tvg-id="Moji.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://kitagaruda.id/_next/image?url=https%3A%2F%2Fkitagaruda.sgp1.cdn.digitaloceanspaces.com%2F01KR6JWD03WWVFFFH6Y8N0KBYB.png&w=2048&q=75" group-title="EVENT 03/06/26", 20:00 Philippines U19 vs Australia U19
-http://202.169.224.202:8800/udp/239.9.1.32:1234
+https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5TJFoNoqsT27VF.m3u8
 
 
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="EVENT 04/06/26", #INFO
+#https://dl.dropboxusercontent.com/scl/fi/2tful09bnlutur997dy14/info.mp4?rlkey=ofo83lo3fhargghvqq6g1m6l7&st=o4ecugky
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="EVENT 04/06/26", TRAKTIR KOPI
+#https://dl.dropboxusercontent.com/scl/fi/fwh3ea7esxf14gkmmrcwu/lv_0_20250723183017.mp4?rlkey=0bkqehfly8mqsi2zxzckfojl3&st=rssjfw21
+
+
+#EXTINF:-1 tvg-id="Sportstars 2.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6okzMc4QoRoGa4xcqIsQTAJFnPaR5pCAaVw&s" group-title="EVENT 04/06/26", 00:00 Gibraltar vs British Virgin Islands
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
+#EXTINF:-1 tvg-id="Sportstars.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6okzMc4QoRoGa4xcqIsQTAJFnPaR5pCAaVw&s" group-title="EVENT 04/06/26", 01:00 Congo DR vs Denmark
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+
+#EXTINF:-1 tvg-id="Sportstars 4.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6okzMc4QoRoGa4xcqIsQTAJFnPaR5pCAaVw&s" group-title="EVENT 04/06/26", 01:45 Netherlands vs Algeria
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
+#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+
+#EXTINF:-1 tvg-id="Soccer Channel.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6okzMc4QoRoGa4xcqIsQTAJFnPaR5pCAaVw&s" group-title="EVENT 04/06/26", 01:45 Luxembourg vs Italy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6okzMc4QoRoGa4xcqIsQTAJFnPaR5pCAaVw&s" group-title="EVENT 04/06/26", 01:45 Poland vs Nigeria
+#EXTVLCOPT:http-referrer=https://rohan116.ultronx1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#https://rohan116.ultronx1.cfd/puk1/usergenrx0cir27aq.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6okzMc4QoRoGa4xcqIsQTAJFnPaR5pCAaVw&s" group-title="EVENT 04/06/26", 06:00 Korea Republic vs El Salvador
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6okzMc4QoRoGa4xcqIsQTAJFnPaR5pCAaVw&s" group-title="EVENT 04/06/26", 19:00 Slovenia vs Cyprus
+#EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6okzMc4QoRoGa4xcqIsQTAJFnPaR5pCAaVw&s" group-title="EVENT 04/06/26", 23:00 Northern Ireland vs Guinea
+#EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
+
+#EXTINF:-1 tvg-id="Moji.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://kitagaruda.id/_next/image?url=https%3A%2F%2Fkitagaruda.sgp1.cdn.digitaloceanspaces.com%2F01KR6JWD03WWVFFFH6Y8N0KBYB.png&w=2048&q=75" group-title="EVENT 04/06/26", 16:00 Myanmar U19 vs Vietnam U19
+#https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5TJFoNoqsT27VF.m3u8
+
+#EXTINF:-1 tvg-id="Moji.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://kitagaruda.id/_next/image?url=https%3A%2F%2Fkitagaruda.sgp1.cdn.digitaloceanspaces.com%2F01KR6JWD03WWVFFFH6Y8N0KBYB.png&w=2048&q=75" group-title="EVENT 04/06/26", 20:00 Timor-Leste U19 vs Indonesia U19
+#http://opplextv.cyou:8080/live/nasir6160/nasir/350972.ts
+#https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5TJFoNoqsT27VF.m3u8
 
 
 
