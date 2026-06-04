@@ -34,6 +34,9 @@ https://dl.dropboxusercontent.com/scl/fi/fwh3ea7esxf14gkmmrcwu/lv_0_202507231830
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🛑 APPLE TV", PERINGATAN
 https://dl.dropboxusercontent.com/scl/fi/ypg266s32gdouq9ygb25b/Wk4PZ6Nh.3gpp?rlkey=wkhhzoj3w33h2dnr5vj79y5y4&st=drigftaq
 
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🛑 APPLE TV", WORLD CUP 2026
+https://drive.google.com/uc?export=download&id=1RlhMiatAYjI_KOx76fkzyNtleTHEeS88
+
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://statik.tempo.co/data/2016/06/12/id_514649/514649_650.jpg" group-title="🛑 APPLE TV", FISHING TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
@@ -59,102 +62,15 @@ https://playerngefilm21.rpmlive.online/hls/AHBVeRpDbfqtRxGbmn8dRQ/gee/zbxp1use/6
 ======== LIVE EVENT =========
 
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="EVENT 04/06/26", #INFO
-https://dl.dropboxusercontent.com/scl/fi/2tful09bnlutur997dy14/info.mp4?rlkey=ofo83lo3fhargghvqq6g1m6l7&st=o4ecugky
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="EVENT 04/06/26", TRAKTIR KOPI
-https://dl.dropboxusercontent.com/scl/fi/fwh3ea7esxf14gkmmrcwu/lv_0_20250723183017.mp4?rlkey=0bkqehfly8mqsi2zxzckfojl3&st=rssjfw21
-
-
-#EXTINF:-1 tvg-id="Sportstars 2.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6okzMc4QoRoGa4xcqIsQTAJFnPaR5pCAaVw&s" group-title="EVENT 04/06/26", 00:00 Gibraltar vs British Virgin Islands
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-
-#EXTINF:-1 tvg-id="Sportstars.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6okzMc4QoRoGa4xcqIsQTAJFnPaR5pCAaVw&s" group-title="EVENT 04/06/26", 01:00 Congo DR vs Denmark
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
-
-#EXTINF:-1 tvg-id="Sportstars 4.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6okzMc4QoRoGa4xcqIsQTAJFnPaR5pCAaVw&s" group-title="EVENT 04/06/26", 01:45 Netherlands vs Algeria
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
-
-#EXTINF:-1 tvg-id="Soccer Channel.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6okzMc4QoRoGa4xcqIsQTAJFnPaR5pCAaVw&s" group-title="EVENT 04/06/26", 01:45 Luxembourg vs Italy
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6okzMc4QoRoGa4xcqIsQTAJFnPaR5pCAaVw&s" group-title="EVENT 04/06/26", 01:45 Poland vs Nigeria
-#EXTVLCOPT:http-referrer=https://rohan116.ultronx1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://rohan116.ultronx1.cfd/puk1/usergenrx0cir27aq.m3u8
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6okzMc4QoRoGa4xcqIsQTAJFnPaR5pCAaVw&s" group-title="EVENT 04/06/26", 06:00 Korea Republic vs El Salvador
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6okzMc4QoRoGa4xcqIsQTAJFnPaR5pCAaVw&s" group-title="EVENT 04/06/26", 07:45 Panama vs Dominican Republic
-#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
-#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel18.flv?auth_key=3000001780447761-0-0-93cde884cb7cbe28d317fe6ca57bc77c
-
-#EXTINF:-1 tvg-id="Moji.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://kitagaruda.id/_next/image?url=https%3A%2F%2Fkitagaruda.sgp1.cdn.digitaloceanspaces.com%2F01KR6JWD03WWVFFFH6Y8N0KBYB.png&w=2048&q=75" group-title="EVENT 04/06/26", 16:00 Myanmar U19 vs Vietnam U19
-#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
-#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel15.flv?auth_key=3000001780447552-0-0-e6730c123bac0d1f43108c15fadf63f5
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6okzMc4QoRoGa4xcqIsQTAJFnPaR5pCAaVw&s" group-title="EVENT 04/06/26", 19:00 Cambodia vs Bhutan
-#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
-#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel16.flv?auth_key=3000001780447903-0-0-9dc48d43e9a065a52e77c698ad5e3031
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6okzMc4QoRoGa4xcqIsQTAJFnPaR5pCAaVw&s" group-title="EVENT 04/06/26", 19:00 Slovenia vs Cyprus
-#EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
-
-#EXTINF:-1 tvg-id="Moji.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://kitagaruda.id/_next/image?url=https%3A%2F%2Fkitagaruda.sgp1.cdn.digitaloceanspaces.com%2F01KR6JWD03WWVFFFH6Y8N0KBYB.png&w=2048&q=75" group-title="EVENT 04/06/26", 20:00 Timor-Leste U19 vs Indonesia U19 1
-http://opplextv.cyou:8080/live/nasir6160/nasir/350972.ts
-
-#EXTINF:-1 tvg-id="Moji.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://kitagaruda.id/_next/image?url=https%3A%2F%2Fkitagaruda.sgp1.cdn.digitaloceanspaces.com%2F01KR6JWD03WWVFFFH6Y8N0KBYB.png&w=2048&q=75" group-title="EVENT 04/06/26", 20:00 Timor-Leste U19 vs Indonesia U19 2
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel61.m3u8
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6okzMc4QoRoGa4xcqIsQTAJFnPaR5pCAaVw&s" group-title="EVENT 04/06/26", 23:00 Northern Ireland vs Guinea
-#EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://assets.the-afc.com/2026-27_Asian_Qualifiers/Matches/Round_3/Buildup/Logo/thumbnail-RT26-draw.jpg" group-title="EVENT 04/06/26", 23:00 Lebanon vs Yemen
-#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
-#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel6.flv?auth_key=3000001780565602-0-0-0f93dde2f3c9d8328afcde669561f671
-
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="EVENT 05/06/26", #INFO
 https://dl.dropboxusercontent.com/scl/fi/2tful09bnlutur997dy14/info.mp4?rlkey=ofo83lo3fhargghvqq6g1m6l7&st=o4ecugky
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="EVENT 05/06/26", TRAKTIR KOPI
 https://dl.dropboxusercontent.com/scl/fi/fwh3ea7esxf14gkmmrcwu/lv_0_20250723183017.mp4?rlkey=0bkqehfly8mqsi2zxzckfojl3&st=rssjfw21
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="EVENT 05/06/26", WORLD CUP 2026
+https://drive.google.com/uc?export=download&id=1RlhMiatAYjI_KOx76fkzyNtleTHEeS88
 
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6okzMc4QoRoGa4xcqIsQTAJFnPaR5pCAaVw&s" group-title="EVENT 05/06/26", 00:00 Swedia vs Yunani
@@ -228,95 +144,106 @@ https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001780449367-0-0-
 
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="EVENT 06/06/26", #INFO
-#https://dl.dropboxusercontent.com/scl/fi/2tful09bnlutur997dy14/info.mp4?rlkey=ofo83lo3fhargghvqq6g1m6l7&st=o4ecugky
+https://dl.dropboxusercontent.com/scl/fi/2tful09bnlutur997dy14/info.mp4?rlkey=ofo83lo3fhargghvqq6g1m6l7&st=o4ecugky
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="EVENT 06/06/26", TRAKTIR KOPI
-#https://dl.dropboxusercontent.com/scl/fi/fwh3ea7esxf14gkmmrcwu/lv_0_20250723183017.mp4?rlkey=0bkqehfly8mqsi2zxzckfojl3&st=rssjfw21
+https://dl.dropboxusercontent.com/scl/fi/fwh3ea7esxf14gkmmrcwu/lv_0_20250723183017.mp4?rlkey=0bkqehfly8mqsi2zxzckfojl3&st=rssjfw21
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="EVENT 06/06/26", WORLD CUP 2026
+https://drive.google.com/uc?export=download&id=1RlhMiatAYjI_KOx76fkzyNtleTHEeS88
 
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6okzMc4QoRoGa4xcqIsQTAJFnPaR5pCAaVw&s" group-title="EVENT 06/06/26", 00:00 Moldova vs Bulgaria
 #EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001780557894-0-0-069e7c89de12bf05f43676caaec9453b
+https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001780557894-0-0-069e7c89de12bf05f43676caaec9453b
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6okzMc4QoRoGa4xcqIsQTAJFnPaR5pCAaVw&s" group-title="EVENT 06/06/26", 00:00 Russia vs Burkina Faso
 #EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001780557943-0-0-234f63cf97dbeffb663dae40b57a1a43
+https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001780557943-0-0-234f63cf97dbeffb663dae40b57a1a43
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6okzMc4QoRoGa4xcqIsQTAJFnPaR5pCAaVw&s" group-title="EVENT 06/06/26", 00:00 San Marino vs Bangladesh
 #EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=ba4b40d8eb86d4ad89eadf09bb164fbb&wsABSTime=1780601207
+https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=ba4b40d8eb86d4ad89eadf09bb164fbb&wsABSTime=1780601207
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6okzMc4QoRoGa4xcqIsQTAJFnPaR5pCAaVw&s" group-title="EVENT 06/06/26", 00:45 Hungary vs Finland
 #EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001780558069-0-0-b0880364495871a3933cddabccefec09
+https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001780558069-0-0-b0880364495871a3933cddabccefec09
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6okzMc4QoRoGa4xcqIsQTAJFnPaR5pCAaVw&s" group-title="EVENT 06/06/26", 01:00 Azerbaijan vs Malta
 #EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001780558128-0-0-118bdc7d833ed2264420c2715768c366
+https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001780558128-0-0-118bdc7d833ed2264420c2715768c366
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6okzMc4QoRoGa4xcqIsQTAJFnPaR5pCAaVw&s" group-title="EVENT 06/06/26", 05:15 Paraguay vs Nicaragua
 #EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://live1.pro2cdnlive.com/live/channel10.flv?wsSecret=ac68868378e46cbcb40e3668510e0093&wsABSTime=1780601415
+https://live1.pro2cdnlive.com/live/channel10.flv?wsSecret=ac68868378e46cbcb40e3668510e0093&wsABSTime=1780601415
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6okzMc4QoRoGa4xcqIsQTAJFnPaR5pCAaVw&s" group-title="EVENT 06/06/26", 06:30 Canada vs Ireland Republic
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
-#https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6okzMc4QoRoGa4xcqIsQTAJFnPaR5pCAaVw&s" group-title="EVENT 06/06/26", 07:00 Haiti vs Peru
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6okzMc4QoRoGa4xcqIsQTAJFnPaR5pCAaVw&s" group-title="EVENT 06/06/26", 14:30 China PR U23 vs Tajikistan U23
 #EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://live1.pro2cdnlive.com/live/channel14.flv?wsSecret=31abb3477b5f08c9db2c97914123e1db&wsABSTime=1780601707
+https://live1.pro2cdnlive.com/live/channel14.flv?wsSecret=31abb3477b5f08c9db2c97914123e1db&wsABSTime=1780601707
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6okzMc4QoRoGa4xcqIsQTAJFnPaR5pCAaVw&s" group-title="EVENT 06/06/26", 17:00 Belgium vs Tunisia
-#http://103.148.44.38:8000/play/a05c/index.m3u8
+http://103.148.44.38:8000/play/a05c/index.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6okzMc4QoRoGa4xcqIsQTAJFnPaR5pCAaVw&s" group-title="EVENT 06/06/26", 18:30 Myanmar vs Guam
 #EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://live1.pro2cdnlive.com/live/channel5.flv?wsSecret=ca591d43edb6d91641f06bb93320f4d4&wsABSTime=1780601811
+https://live1.pro2cdnlive.com/live/channel5.flv?wsSecret=ca591d43edb6d91641f06bb93320f4d4&wsABSTime=1780601811
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6okzMc4QoRoGa4xcqIsQTAJFnPaR5pCAaVw&s" group-title="EVENT 06/06/26", 19:00 Ethiopia vs Malawi
 #EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=2fda3f5d5190907650732358d7f34809&wsABSTime=1780602589
+https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=2fda3f5d5190907650732358d7f34809&wsABSTime=1780602589
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6okzMc4QoRoGa4xcqIsQTAJFnPaR5pCAaVw&s" group-title="EVENT 06/06/26", 20:00 Belgium vs Tunisia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
 
 #EXTINF:-1 tvg-id="Moji.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://kitagaruda.id/_next/image?url=https%3A%2F%2Fkitagaruda.sgp1.cdn.digitaloceanspaces.com%2F01KR6JWD03WWVFFFH6Y8N0KBYB.png&w=2048&q=75" group-title="EVENT 06/06/26", 20:00 Cambodia U19 vs Philippines U19
 #EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001780559493-0-0-8bec8698cc79abcd7c8b6d56bfad1361
+https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001780559493-0-0-8bec8698cc79abcd7c8b6d56bfad1361
 
 
 
 
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="EVENT 07/06/26", #INFO
+#https://dl.dropboxusercontent.com/scl/fi/2tful09bnlutur997dy14/info.mp4?rlkey=ofo83lo3fhargghvqq6g1m6l7&st=o4ecugky
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="EVENT 07/06/26", TRAKTIR KOPI
+#https://dl.dropboxusercontent.com/scl/fi/fwh3ea7esxf14gkmmrcwu/lv_0_20250723183017.mp4?rlkey=0bkqehfly8mqsi2zxzckfojl3&st=rssjfw21
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="EVENT 07/06/26", WORLD CUP 2026
+#https://drive.google.com/uc?export=download&id=1RlhMiatAYjI_KOx76fkzyNtleTHEeS88
 
 
 
@@ -328,6 +255,10 @@ https://dl.dropboxusercontent.com/scl/fi/2tful09bnlutur997dy14/info.mp4?rlkey=of
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🏸 BADMINTON", TRAKTIR KOPI
 https://dl.dropboxusercontent.com/scl/fi/fwh3ea7esxf14gkmmrcwu/lv_0_20250723183017.mp4?rlkey=0bkqehfly8mqsi2zxzckfojl3&st=rssjfw21
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🏸 BADMINTON", WORLD CUP 2026
+https://drive.google.com/uc?export=download&id=1RlhMiatAYjI_KOx76fkzyNtleTHEeS88
+
 
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ytimg.com/vi/SB9B32X1ekw/maxresdefault.jpg" group-title="🏸 BADMINTON", RCTI
@@ -352,19 +283,13 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 #EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel61.flv?wsSecret=43ffff63c1efb43d334102cad1523c69&wsABSTime=1780579533
+https://live1.pro2cdnlive.com/live/channel61.flv?wsSecret=85237657665bac8bf9444177845068db&wsABSTime=1780659030
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ytimg.com/vi/SB9B32X1ekw/maxresdefault.jpg" group-title="🏸 BADMINTON", 09:00 INDONESIA OPEN 2026 2
 #EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel62.flv?wsSecret=264b056258c63dcf8cc467bcce48e18f&wsABSTime=1780579563
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ytimg.com/vi/SB9B32X1ekw/maxresdefault.jpg" group-title="🏸 BADMINTON", 09:00 INDONESIA OPEN 2026 3
-#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
-#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel63.flv?wsSecret=662485bb052a5fe39cf7f754f9543c4c&wsABSTime=1780579590
+https://live1.pro2cdnlive.com/live/channel62.flv?wsSecret=4cd31a387b09d7ff7c3cea2bae654a00&wsABSTime=1780659061
 
 
 
@@ -377,24 +302,9 @@ https://dl.dropboxusercontent.com/scl/fi/2tful09bnlutur997dy14/info.mp4?rlkey=of
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🏐 VOLLEYBALL", TRAKTIR KOPI
 https://dl.dropboxusercontent.com/scl/fi/fwh3ea7esxf14gkmmrcwu/lv_0_20250723183017.mp4?rlkey=0bkqehfly8mqsi2zxzckfojl3&st=rssjfw21
 
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🏐 VOLLEYBALL", WORLD CUP 2026
+https://drive.google.com/uc?export=download&id=1RlhMiatAYjI_KOx76fkzyNtleTHEeS88
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://thumbor.prod.vidiocdn.com/qGA4M-FsVPf9ANqeAubq6bt1U6Q=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18851/volleyball-nations-league-5bd906.jpg" group-title="🏐 VOLLEYBALL", 07:00 Kanada W vs Jerman W 04/06/26
-#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
-#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel82.flv?wsSecret=5cb7ae7135f8864a3ae6fa3323fe7c6e&wsABSTime=1780580636
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://thumbor.prod.vidiocdn.com/qGA4M-FsVPf9ANqeAubq6bt1U6Q=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18851/volleyball-nations-league-5bd906.jpg" group-title="🏐 VOLLEYBALL", 14:00 Ceko W vs Polandia W 04/06/26
-#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
-#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=c0185c077154859248343b5da8989777&wsABSTime=1780580671
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://thumbor.prod.vidiocdn.com/qGA4M-FsVPf9ANqeAubq6bt1U6Q=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18851/volleyball-nations-league-5bd906.jpg" group-title="🏐 VOLLEYBALL", 18:30 China W vs Thailand W 04/06/26
-#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
-#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=bc5ab0e223bd20a0616a66ff33409b49&wsABSTime=1780580729
 
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://thumbor.prod.vidiocdn.com/qGA4M-FsVPf9ANqeAubq6bt1U6Q=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18851/volleyball-nations-league-5bd906.jpg" group-title="🏐 VOLLEYBALL", 02:30 Turki W vs Belanda W 05/06/26
@@ -409,7 +319,7 @@ https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=fc4ff6e54176102f9a36bf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://live1.pro2cdnlive.com/live/channel82.flv?wsSecret=21589ac1ba0324516b59587798ef1368&wsABSTime=1780603163
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://thumbor.prod.vidiocdn.com/qGA4M-FsVPf9ANqeAubq6bt1U6Q=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18851/volleyball-nations-league-5bd906.jpg" group-title="🏐 VOLLEYBALL", 03:30 Brazil W vs Dominika W 05/06/26
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://thumbor.prod.vidiocdn.com/qGA4M-FsVPf9ANqeAubq6bt1U6Q=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18851/volleyball-nations-league-5bd906.jpg" group-title="🏐 VOLLEYBALL", 06:00 Brazil W vs Dominika W 05/06/26
 #EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
