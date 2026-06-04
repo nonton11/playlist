@@ -283,11 +283,23 @@ https://dl.dropboxusercontent.com/scl/fi/2tful09bnlutur997dy14/info.mp4?rlkey=of
 https://dl.dropboxusercontent.com/scl/fi/fwh3ea7esxf14gkmmrcwu/lv_0_20250723183017.mp4?rlkey=0bkqehfly8mqsi2zxzckfojl3&st=rssjfw21
 
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://files01.pna.gov.ph/ograph/2023/07/03/vnl-logo.png" group-title="🏐 VOLLEYBALL", 06:00 Brazil W vs Belanda W
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://files01.pna.gov.ph/ograph/2023/07/03/vnl-logo.png" group-title="🏐 VOLLEYBALL", 07:00 Kanada W vs Jerman W
 #EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=df5ebbb133af07defb2c43188dfac8e1&wsABSTime=1780579754
+https://live1.pro2cdnlive.com/live/channel82.flv?wsSecret=5cb7ae7135f8864a3ae6fa3323fe7c6e&wsABSTime=1780580636
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://files01.pna.gov.ph/ograph/2023/07/03/vnl-logo.png" group-title="🏐 VOLLEYBALL", 14:00 Ceko W W vs Polandia W
+#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=c0185c077154859248343b5da8989777&wsABSTime=1780580671
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://files01.pna.gov.ph/ograph/2023/07/03/vnl-logo.png" group-title="🏐 VOLLEYBALL", 18:30 China W W vs Thailand W
+#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=bc5ab0e223bd20a0616a66ff33409b49&wsABSTime=1780580729
 
 
 
