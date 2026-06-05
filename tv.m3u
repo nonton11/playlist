@@ -122,10 +122,10 @@ https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.m
 https://live3.procdnlive.com/livecdn/channel23.flv?auth_key=3000001780645538-0-0-06cf26a46adc08dacece3ef6b5dc32de
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6okzMc4QoRoGa4xcqIsQTAJFnPaR5pCAaVw&s" group-title="EVENT 05/06/26", 19:30 Thailand vs Kuwait
-#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
-#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001780449174-0-0-b0905dd0aa5ece6771dfabd7258a1efb
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
 
 #EXTINF:-1 tvg-id="Indosiar.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://cdn1-production-images-kly.akamaized.net/zjdP7tBMAIuCyp-RpFPc_934FaM=/800x450/smart/filters:quality(75):strip_icc()/kly-media-production/medias/7759427/original/028903400_1780568720-ChatGPT_Image_Jun_4__2026__05_22_56_PM.jpg" group-title="EVENT 05/06/26", 20:00 Indonesia vs Oman 1
 http://103.148.44.38:8000/play/a05c/index.m3u8
@@ -134,6 +134,9 @@ http://103.148.44.38:8000/play/a05c/index.m3u8
 http://opplextv.cyou:8080/nasir6160/nasir/351030
 
 #EXTINF:-1 tvg-id="Indosiar.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://cdn1-production-images-kly.akamaized.net/zjdP7tBMAIuCyp-RpFPc_934FaM=/800x450/smart/filters:quality(75):strip_icc()/kly-media-production/medias/7759427/original/028903400_1780568720-ChatGPT_Image_Jun_4__2026__05_22_56_PM.jpg" group-title="EVENT 05/06/26", 20:00 Indonesia vs Oman 3
+https://play.ntcwix.com/rrty/sd-1-4544882_gqzm.m3u8?auth_key=1780668369-0-0-0c47b7b9eb8abfeb84bf782e6f2977e4&token=dbb17e9e79efb7e3&device=4&platform=rrty
+
+#EXTINF:-1 tvg-id="Indosiar.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://cdn1-production-images-kly.akamaized.net/zjdP7tBMAIuCyp-RpFPc_934FaM=/800x450/smart/filters:quality(75):strip_icc()/kly-media-production/medias/7759427/original/028903400_1780568720-ChatGPT_Image_Jun_4__2026__05_22_56_PM.jpg" group-title="EVENT 05/06/26", 20:00 Indonesia vs Oman 4
 #EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
