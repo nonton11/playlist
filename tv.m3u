@@ -279,35 +279,19 @@ https://drive.google.com/uc?export=download&id=1RlhMiatAYjI_KOx76fkzyNtleTHEeS88
 
 
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ytimg.com/vi/SB9B32X1ekw/maxresdefault.jpg" group-title="🏸 BADMINTON", RCTI
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ytimg.com/vi/SB9B32X1ekw/maxresdefault.jpg" group-title="🏸 BADMINTON", INEWS
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ytimg.com/vi/SB9B32X1ekw/maxresdefault.jpg" group-title="🏸 BADMINTON", SPORTSTARS 2
+#EXTINF:-1 tvg-id="Sportstars.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ytimg.com/vi/SB9B32X1ekw/maxresdefault.jpg" group-title="🏸 BADMINTON", SPORTSTARS
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ytimg.com/vi/SB9B32X1ekw/maxresdefault.jpg" group-title="🏸 BADMINTON", 09:00 INDONESIA OPEN 2026 1
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ytimg.com/vi/SB9B32X1ekw/maxresdefault.jpg" group-title="🏸 BADMINTON", 12:00 INDONESIA OPEN 2026
 #EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel61.flv?wsSecret=85237657665bac8bf9444177845068db&wsABSTime=1780659030
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ytimg.com/vi/SB9B32X1ekw/maxresdefault.jpg" group-title="🏸 BADMINTON", 09:00 INDONESIA OPEN 2026 2
-#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
-#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel62.flv?wsSecret=4cd31a387b09d7ff7c3cea2bae654a00&wsABSTime=1780659061
+https://live1.pro2cdnlive.com/live/channel61.flv?wsSecret=509574eb25627296e4598d9248627026&wsABSTime=1780744443
 
 
 
@@ -323,43 +307,6 @@ https://dl.dropboxusercontent.com/scl/fi/fwh3ea7esxf14gkmmrcwu/lv_0_202507231830
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🏐 VOLLEYBALL", WORLD CUP 2026
 https://drive.google.com/uc?export=download&id=1RlhMiatAYjI_KOx76fkzyNtleTHEeS88
 
-
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://thumbor.prod.vidiocdn.com/qGA4M-FsVPf9ANqeAubq6bt1U6Q=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18851/volleyball-nations-league-5bd906.jpg" group-title="🏐 VOLLEYBALL", 02:30 Turki W vs Belanda W 05/06/26 - VOLLEYBALL NATIONS LEAGUE WOMEN
-#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
-#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=fc4ff6e54176102f9a36bf798b579ca5&wsABSTime=1780602859
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://thumbor.prod.vidiocdn.com/qGA4M-FsVPf9ANqeAubq6bt1U6Q=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18851/volleyball-nations-league-5bd906.jpg" group-title="🏐 VOLLEYBALL", 03:30 Ukraina W vs Jerman W 05/06/26 - VOLLEYBALL NATIONS LEAGUE WOMEN
-#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
-#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel82.flv?wsSecret=21589ac1ba0324516b59587798ef1368&wsABSTime=1780603163
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://thumbor.prod.vidiocdn.com/qGA4M-FsVPf9ANqeAubq6bt1U6Q=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18851/volleyball-nations-league-5bd906.jpg" group-title="🏐 VOLLEYBALL", 06:00 Brazil W vs Dominika W 05/06/26 - VOLLEYBALL NATIONS LEAGUE WOMEN
-#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
-#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=e452f85434f8cc2e4dc57f3406ddd79b&wsABSTime=1780603240
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://thumbor.prod.vidiocdn.com/qGA4M-FsVPf9ANqeAubq6bt1U6Q=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18851/volleyball-nations-league-5bd906.jpg" group-title="🏐 VOLLEYBALL", 07:00 Kanada W vs Amerika W 05/06/26 - VOLLEYBALL NATIONS LEAGUE WOMEN
-#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
-#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel82.flv?wsSecret=efa417407cc8fbc6e9180f1102e6145a&wsABSTime=1780603298
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://thumbor.prod.vidiocdn.com/qGA4M-FsVPf9ANqeAubq6bt1U6Q=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18851/volleyball-nations-league-5bd906.jpg" group-title="🏐 VOLLEYBALL", 14:00 Jerman W vs Ceko W 05/06/26 - VOLLEYBALL NATIONS LEAGUE WOMEN
-#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
-#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=f74b7c88c517ae56fadae536369d58d0&wsABSTime=1780603361
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://thumbor.prod.vidiocdn.com/qGA4M-FsVPf9ANqeAubq6bt1U6Q=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18851/volleyball-nations-league-5bd906.jpg" group-title="🏐 VOLLEYBALL", 18:30 Serbia W vs Polandia W 05/06/26 - VOLLEYBALL NATIONS LEAGUE WOMEN
-#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
-#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=b3dc1ce06f1c2f169693a1346171c1e4&wsABSTime=1780603415
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://thumbor.prod.vidiocdn.com/qGA4M-FsVPf9ANqeAubq6bt1U6Q=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18851/volleyball-nations-league-5bd906.jpg" group-title="🏐 VOLLEYBALL", 02:30 Dominika W vs Bulgaria W 06/06/26 - VOLLEYBALL NATIONS LEAGUE WOMEN
 #EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
