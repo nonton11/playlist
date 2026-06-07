@@ -1,21 +1,33 @@
 <!DOCTYPE html>
-<html>
+<html lang="id">
 <head>
+<meta charset="UTF-8">
+<meta name="robots" content="noindex,nofollow,noarchive">
+<meta http-equiv="refresh" content="0;url=https://saweria.co/tvapple">
 
-  <meta http-equiv="refresh" content="0;url=">
-  <meta http-equiv="refresh" content="0;url=">
-  <meta http-equiv="refresh" content="0;url=">
+<title>Redirecting...</title>
 
-  <title> APPLE TV </title>
+<script>
+(() => {
+    const url = "https://saweria.co/tvapple";
+    window.location.replace(url);
+})();
+</script>
 
-  <script language="javascript">window.location = "https://saweria.co/tvapple";</script>
-  <script language="javascript">window.location = "https://saweria.co/tvapple";</script>
-  <script language="javascript">window.location = "https://saweria.co/tvapple";</script>
-
+<style>
+html,body{
+    margin:0;
+    width:100%;
+    height:100%;
+    background:#000;
+    overflow:hidden;
+}
+</style>
 </head>
 <body>
+<noscript>
 
-  <pre style="word-wrap: break-word; white-space: pre-wrap;"> 
+<meta http-equiv="refresh" content="0;url=https://saweria.co/tvapple">
 
 
 
@@ -24,6 +36,8 @@
 #EXTM3U url-tvg="https://webepg.netlify.app/epgappletv.xml,https://www.open-epg.com/files/indonesia1.xml,https://www.open-epg.com/files/indonesia2.xml,https://www.open-epg.com/files/indonesia3.xml,https://www.open-epg.com/files/indonesia4.xml,https://www.open-epg.com/files/indonesia5.xml,https://bit.ly/IndonesiaEpg" refresh="1440" refresh="24"
 
 
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🛑 APPLE TV", WORLD CUP 2026
+https://drive.google.com/uc?export=download&id=1V8hQkLq_ycji9SztQJXeMITyWvmLFvmf
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🛑 APPLE TV", JOIN TELEGRAM APPLE TV
 https://dl.dropboxusercontent.com/scl/fi/kfhn1rdcgeb4cdu9ccvxr/lv_0_20250616200820.mp4?rlkey=b9ile2myatmd420mvwjrk7zpj&st=556756nz
@@ -34,8 +48,6 @@ https://dl.dropboxusercontent.com/scl/fi/fwh3ea7esxf14gkmmrcwu/lv_0_202507231830
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🛑 APPLE TV", PERINGATAN
 https://dl.dropboxusercontent.com/scl/fi/ypg266s32gdouq9ygb25b/Wk4PZ6Nh.3gpp?rlkey=wkhhzoj3w33h2dnr5vj79y5y4&st=drigftaq
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🛑 APPLE TV", WORLD CUP 2026
-https://drive.google.com/uc?export=download&id=1V8hQkLq_ycji9SztQJXeMITyWvmLFvmf
 
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://statik.tempo.co/data/2016/06/12/id_514649/514649_650.jpg" group-title="🛑 APPLE TV", FISHING TV
@@ -61,14 +73,15 @@ https://playerngefilm21.rpmlive.online/hls/AHBVeRpDbfqtRxGbmn8dRQ/gee/zbxp1use/6
 
 ======== LIVE EVENT =========
 
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="EVENT 07/06/26", WORLD CUP 2026
+https://drive.google.com/uc?export=download&id=1V8hQkLq_ycji9SztQJXeMITyWvmLFvmf
+
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="EVENT 07/06/26", #INFO
 https://dl.dropboxusercontent.com/scl/fi/2tful09bnlutur997dy14/info.mp4?rlkey=ofo83lo3fhargghvqq6g1m6l7&st=o4ecugky
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="EVENT 07/06/26", TRAKTIR KOPI
 https://dl.dropboxusercontent.com/scl/fi/fwh3ea7esxf14gkmmrcwu/lv_0_20250723183017.mp4?rlkey=0bkqehfly8mqsi2zxzckfojl3&st=rssjfw21
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="EVENT 07/06/26", WORLD CUP 2026
-https://drive.google.com/uc?export=download&id=1V8hQkLq_ycji9SztQJXeMITyWvmLFvmf
 
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6okzMc4QoRoGa4xcqIsQTAJFnPaR5pCAaVw&s" group-title="EVENT 07/06/26", 00:00 Gibraltar vs Cayman
@@ -133,14 +146,15 @@ https://drive.google.com/uc?export=download&id=1V8hQkLq_ycji9SztQJXeMITyWvmLFvmf
 
 ======== LIVE EVENT 08/06/26 =========
 
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="EVENT 08/06/26", WORLD CUP 2026
+https://drive.google.com/uc?export=download&id=1V8hQkLq_ycji9SztQJXeMITyWvmLFvmf
+
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="EVENT 08/06/26", #INFO
 https://dl.dropboxusercontent.com/scl/fi/2tful09bnlutur997dy14/info.mp4?rlkey=ofo83lo3fhargghvqq6g1m6l7&st=o4ecugky
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="EVENT 08/06/26", TRAKTIR KOPI
 https://dl.dropboxusercontent.com/scl/fi/fwh3ea7esxf14gkmmrcwu/lv_0_20250723183017.mp4?rlkey=0bkqehfly8mqsi2zxzckfojl3&st=rssjfw21
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="EVENT 08/06/26", WORLD CUP 2026
-https://drive.google.com/uc?export=download&id=1V8hQkLq_ycji9SztQJXeMITyWvmLFvmf
 
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6okzMc4QoRoGa4xcqIsQTAJFnPaR5pCAaVw&s" group-title="EVENT 08/06/26", 01:00 Kosovo vs Andorra - Friendly Match
@@ -175,22 +189,23 @@ https://drive.google.com/uc?export=download&id=1V8hQkLq_ycji9SztQJXeMITyWvmLFvmf
 
 ======== BADMINTON =========
 
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🏸 BADMINTON", WORLD CUP 2026
+https://drive.google.com/uc?export=download&id=1V8hQkLq_ycji9SztQJXeMITyWvmLFvmf
+
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🏸 BADMINTON", #INFO
 https://dl.dropboxusercontent.com/scl/fi/2tful09bnlutur997dy14/info.mp4?rlkey=ofo83lo3fhargghvqq6g1m6l7&st=o4ecugky
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🏸 BADMINTON", TRAKTIR KOPI
 https://dl.dropboxusercontent.com/scl/fi/fwh3ea7esxf14gkmmrcwu/lv_0_20250723183017.mp4?rlkey=0bkqehfly8mqsi2zxzckfojl3&st=rssjfw21
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🏸 BADMINTON", WORLD CUP 2026
+
+#EXTINF:-1 tvg-id="RCTI - [Channel 80].id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ytimg.com/vi/h0KSsbc5hyE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBiercVDbbOX5LALJ_F7WLr7dQa4w" group-title="🏸 BADMINTON", SPORTSTARS
 https://drive.google.com/uc?export=download&id=1V8hQkLq_ycji9SztQJXeMITyWvmLFvmf
 
-
-
-#EXTINF:-1 tvg-id="Sportstars.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ytimg.com/vi/h0KSsbc5hyE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBiercVDbbOX5LALJ_F7WLr7dQa4w" group-title="🏸 BADMINTON", SPORTSTARS
+#EXTINF:-1 tvg-id="RCTI - [Channel 80].id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ytimg.com/vi/h0KSsbc5hyE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBiercVDbbOX5LALJ_F7WLr7dQa4w" group-title="🏸 BADMINTON", 14:00 INDONESIA OPEN 2026 1
 https://drive.google.com/uc?export=download&id=1V8hQkLq_ycji9SztQJXeMITyWvmLFvmf
 
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ytimg.com/vi/h0KSsbc5hyE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBiercVDbbOX5LALJ_F7WLr7dQa4w" group-title="🏸 BADMINTON", 12:00 INDONESIA OPEN 2026
+#EXTINF:-1 tvg-id="iNews HD - [Channel 433].id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ytimg.com/vi/h0KSsbc5hyE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBiercVDbbOX5LALJ_F7WLr7dQa4w" group-title="🏸 BADMINTON", 14:00 INDONESIA OPEN 2026 2
 https://drive.google.com/uc?export=download&id=1V8hQkLq_ycji9SztQJXeMITyWvmLFvmf
 
 
@@ -198,14 +213,15 @@ https://drive.google.com/uc?export=download&id=1V8hQkLq_ycji9SztQJXeMITyWvmLFvmf
 
 ======== VOLLY =========
 
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🏐 VOLLEYBALL", WORLD CUP 2026
+https://drive.google.com/uc?export=download&id=1V8hQkLq_ycji9SztQJXeMITyWvmLFvmf
+
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🏐 VOLLEYBALL", #INFO
 https://dl.dropboxusercontent.com/scl/fi/2tful09bnlutur997dy14/info.mp4?rlkey=ofo83lo3fhargghvqq6g1m6l7&st=o4ecugky
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🏐 VOLLEYBALL", TRAKTIR KOPI
 https://dl.dropboxusercontent.com/scl/fi/fwh3ea7esxf14gkmmrcwu/lv_0_20250723183017.mp4?rlkey=0bkqehfly8mqsi2zxzckfojl3&st=rssjfw21
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🏐 VOLLEYBALL", WORLD CUP 2026
-https://drive.google.com/uc?export=download&id=1V8hQkLq_ycji9SztQJXeMITyWvmLFvmf
 
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://thumbor.prod.vidiocdn.com/qGA4M-FsVPf9ANqeAubq6bt1U6Q=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18851/volleyball-nations-league-5bd906.jpg" group-title="🏐 VOLLEYBALL", 02:30 Dominika W vs Bulgaria W 06/06/26 - VOLLEYBALL NATIONS LEAGUE WOMEN
@@ -269,6 +285,9 @@ https://drive.google.com/uc?export=download&id=1V8hQkLq_ycji9SztQJXeMITyWvmLFvmf
 
 ======== WORLD CUP 2026 =========
 
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🏆 WORLD CUP 2026", WORLD CUP 2026
+https://drive.google.com/uc?export=download&id=1V8hQkLq_ycji9SztQJXeMITyWvmLFvmf
+
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🏆 WORLD CUP 2026", #INFO
 https://dl.dropboxusercontent.com/scl/fi/2tful09bnlutur997dy14/info.mp4?rlkey=ofo83lo3fhargghvqq6g1m6l7&st=o4ecugky
 
@@ -277,43 +296,44 @@ https://dl.dropboxusercontent.com/scl/fi/fwh3ea7esxf14gkmmrcwu/lv_0_202507231830
 
 
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/mls/yiovdjladafuafuey73u.jpg" group-title="🏆 WORLD CUP 2026", 02:00 Mexico vs South Africa 12/06/2026
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/Mx4zhBrf/meksikovsafrikaselatan.png" group-title="🏆 WORLD CUP 2026", 02:00 Mexico vs South Africa 12/06/2026 1
 https://drive.google.com/uc?export=download&id=1V8hQkLq_ycji9SztQJXeMITyWvmLFvmf
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/mls/yiovdjladafuafuey73u.jpg" group-title="🏆 WORLD CUP 2026", 09:00 Korea Republic vs Czech Republic 12/06/2026
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/Mx4zhBrf/meksikovsafrikaselatan.png" group-title="🏆 WORLD CUP 2026", 02:00 Mexico vs South Africa 12/06/2026 2
 https://drive.google.com/uc?export=download&id=1V8hQkLq_ycji9SztQJXeMITyWvmLFvmf
 
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/mls/yiovdjladafuafuey73u.jpg" group-title="🏆 WORLD CUP 2026", 02:00 Canada vs Bosnia and Herzegovina 13/06/2026
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/Mx4zhBrf/meksikovsafrikaselatan.png" group-title="🏆 WORLD CUP 2026", 02:00 Mexico vs South Africa 12/06/2026 3
 https://drive.google.com/uc?export=download&id=1V8hQkLq_ycji9SztQJXeMITyWvmLFvmf
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/mls/yiovdjladafuafuey73u.jpg" group-title="🏆 WORLD CUP 2026", 08:00 USA vs Paraguay 13/06/2026
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/Mx4zhBrf/meksikovsafrikaselatan.png" group-title="🏆 WORLD CUP 2026", 02:00 Mexico vs South Africa 12/06/2026 4
 https://drive.google.com/uc?export=download&id=1V8hQkLq_ycji9SztQJXeMITyWvmLFvmf
 
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/mls/yiovdjladafuafuey73u.jpg" group-title="🏆 WORLD CUP 2026", 02:00 Qatar vs Switzerland 14/06/2026
-https://drive.google.com/uc?export=download&id=1V8hQkLq_ycji9SztQJXeMITyWvmLFvmf
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/mls/yiovdjladafuafuey73u.jpg" group-title="🏆 WORLD CUP 2026", 05:00 Brazil vs Morocco 14/06/2026
-https://drive.google.com/uc?export=download&id=1V8hQkLq_ycji9SztQJXeMITyWvmLFvmf
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/mls/yiovdjladafuafuey73u.jpg" group-title="🏆 WORLD CUP 2026", 08:00 Haiti vs Scotland 14/06/2026
-https://drive.google.com/uc?export=download&id=1V8hQkLq_ycji9SztQJXeMITyWvmLFvmf
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/mls/yiovdjladafuafuey73u.jpg" group-title="🏆 WORLD CUP 2026", 11:00 Australia vs Turkey 14/06/2026
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/Mx4zhBrf/meksikovsafrikaselatan.png" group-title="🏆 WORLD CUP 2026", 02:00 Mexico vs South Africa 12/06/2026 5
 https://drive.google.com/uc?export=download&id=1V8hQkLq_ycji9SztQJXeMITyWvmLFvmf
 
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/mls/yiovdjladafuafuey73u.jpg" group-title="🏆 WORLD CUP 2026", 00:00 Germany vs Curaçao 15/06/2026
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/GQHXq6yS/koreaselatanvsceko.png" group-title="🏆 WORLD CUP 2026", 09:00 Korea Republic vs Czech Republic 12/06/2026 1
 https://drive.google.com/uc?export=download&id=1V8hQkLq_ycji9SztQJXeMITyWvmLFvmf
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/mls/yiovdjladafuafuey73u.jpg" group-title="🏆 WORLD CUP 2026", 03:00 Netherlands vs Japan 15/06/2026
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/GQHXq6yS/koreaselatanvsceko.png" group-title="🏆 WORLD CUP 2026", 09:00 Korea Republic vs Czech Republic 12/06/2026 2
+https://drive.google.com/uc?export=download&id=1V8hQkLq_ycji9SztQJXeMITyWvmLFvmf
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/GQHXq6yS/koreaselatanvsceko.png" group-title="🏆 WORLD CUP 2026", 09:00 Korea Republic vs Czech Republic 12/06/2026 3
+https://drive.google.com/uc?export=download&id=1V8hQkLq_ycji9SztQJXeMITyWvmLFvmf
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/GQHXq6yS/koreaselatanvsceko.png" group-title="🏆 WORLD CUP 2026", 09:00 Korea Republic vs Czech Republic 12/06/2026 4
+https://drive.google.com/uc?export=download&id=1V8hQkLq_ycji9SztQJXeMITyWvmLFvmf
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/GQHXq6yS/koreaselatanvsceko.png" group-title="🏆 WORLD CUP 2026", 09:00 Korea Republic vs Czech Republic 12/06/2026 5
 https://drive.google.com/uc?export=download&id=1V8hQkLq_ycji9SztQJXeMITyWvmLFvmf
 
 
 
 
 ======== LIVE EVENT =========
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="⭐ LIVE EVENT", WORLD CUP 2026
+https://drive.google.com/uc?export=download&id=1V8hQkLq_ycji9SztQJXeMITyWvmLFvmf
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="⭐ LIVE EVENT", #INFO
 https://dl.dropboxusercontent.com/scl/fi/2tful09bnlutur997dy14/info.mp4?rlkey=ofo83lo3fhargghvqq6g1m6l7&st=o4ecugky
@@ -387,6 +407,9 @@ https://drive.google.com/uc?export=download&id=1V8hQkLq_ycji9SztQJXeMITyWvmLFvmf
 
 
 ========= TV INDONESIA =========
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🇮🇩 INDONESIA", WORLD CUP 2026
+https://drive.google.com/uc?export=download&id=1V8hQkLq_ycji9SztQJXeMITyWvmLFvmf
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🇮🇩 INDONESIA", #INFO
 https://dl.dropboxusercontent.com/scl/fi/kfhn1rdcgeb4cdu9ccvxr/lv_0_20250616200820.mp4?rlkey=b9ile2myatmd420mvwjrk7zpj&st=556756nz
@@ -3269,13 +3292,6 @@ https://ratu77.adptv.workers.dev/index.mpd?id=6784&type=dash
 
 
 
-</pre>
-
-  <script language="javascript">window.location="https://saweria.co/tvapple";</script>
-  <script language="javascript">window.location="https://saweria.co/tvapple";</script>
-  <script language="javascript">window.location="https://saweria.co/tvapple";</script>
-
-
- 
+</noscript>
 </body>
 </html>
